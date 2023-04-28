@@ -10,3 +10,7 @@ numpy
 pandas
 icetk
 cpm_kernels
+matplotlib
+seaborn
+ipython
+keras

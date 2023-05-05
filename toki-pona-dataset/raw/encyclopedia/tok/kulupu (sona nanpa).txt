@@ -1,0 +1,11 @@
+'''kulupu''' li ijo lon [[sona nanpa]]. kulupu li jo e ijo mute. ijo li lon kulupu la, ona li '''ijo'''. ale li ken lon kulupu. sona ni li [[sona nanpa kulupu]].
+ijo ''A'' li lon kulupu ''B'' la, ''A''  ''B''. ijo ''A'' li lon ala kulupu ''B'' la, ''A''  ''B''.
+ijo ale pi kulupu ''A'' li sama ijo ale pi kulupu ''B'' la, kulupu tu ni li sama. ni la, ''A'' = ''B''.
+ijo ale pi kulupu ''A'' li lon kulupu ''B'' la, kulupu ''B'' li '''kulupu suli''' pi kulupu ''A'', anu kulupu ''A'' li '''kulupu lili''' pi kulupu ''B''. ni la, ''B''  ''A'' anu ''A''  ''B''.
+kulupu ''A'' li kulupu lili pi kulupu ''B'', taso kulupu ''A'' li kulupu ''B'' ala la, kulupu ''B'' li '''kulupu suli lon''' pi kulupu ''A'', anu kulupu ''A'' li '''kulupu lili lon''' pi kulupu ''B''. ni la, ''B''  ''A'' anu ''A''  ''B''.
+kulupu li jo e ala la, ona li '''kulupu weka'''. sitelen ni li .
+==== sitelen pi kulupu sin ====
+ijo ale pi kulupu A  B li lon kulupu A '''anu''' li lon kulupu B. o lukin e ni: kulupu P = {1, 2, 3} en kulupu T = {2, 3, 4}, la kulupu P  T = {1, 2, 3, 4}.
+ijo ale pi kulupu A  B li lon kulupu A '''li''' lon kulupu B. o lukin e ni: kulupu M = {kili, kala, telo} en kulupu N = {kasi, telo, kala}, la kulupu M  N = {kala, telo}.
+ijo ale pi kulupu A \ B li lon kulupu A, taso li lon '''ala''' kulupu B. o lukin e ni: kulupu S = {3, 4}, en kulupu L = {3, 5}, la kulupu S \ L = {4}.
+[[kulupu:sona nanpa]]

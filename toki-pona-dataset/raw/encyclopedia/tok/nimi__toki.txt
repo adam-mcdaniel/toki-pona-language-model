@@ -1,0 +1,20 @@
+{{sitelen nimi}}
+{{nimi ni li pu}}
+== kon ==
+* '''toki''' li nasin pi pana sona. jan li pana e sona ona tawa jan ante la, ona li '''toki'''.
+# ''nimi ijo'': nasin pi pana sona.
+#: ''jan mute li sona e toki Inli.''
+# ''nimi ijo'': pali pi pana sona.
+#: ''toki li pona.''
+#: ''toki sina li ike.''
+# ''nimi ante'': ijo li kama tan toki. ijo li pona tawa toki.
+#: ''ilo toki mi li pakala.''
+# ''nimi pali'': o pana e sona tawa jan ante.
+#: ''jan sona li toki tawa jan lili.''
+# ''nimi taso"": mi wile toki tawa sina.
+#: ''toki! sina pilin seme?'': mi wile toki tawa sina. sina pilin seme?
+== tan ==
+[[toki Topisin]]: {{toki ante|tok}}, "toki"<ref>[https://docs.google.com/spreadsheets/d/1t-pjAgZDyKPXcCRnEdATFQOxGbQFMjZm-8EvXiQd2Po/edit lipu "nimi ale pona" pi jan Inwin]</ref>
+== kalama ==
+{{kalama nimi}}
+== tan sona ==

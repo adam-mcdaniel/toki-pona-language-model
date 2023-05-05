@@ -1,0 +1,32 @@
+{{poki sona ma|
+| nimi ma                 = ma Pesije
+| nimi mama               = Belgi ([[toki Netelan]])<br>Belgique ([[toki Kanse]])<br>Belgien ([[toki Tosi]])
+| len ma                  = [[sitelen:Flag of Belgium.png|120px]]
+| sitelen lawa            = [[sitelen:Great coat of arms of Belgium.svg|80px]]
+| kalama musi ma          = ''La Brabanonne''
+| ma tomo lawa            = [[ma tomo Puse]]
+| ma suli                 =
+| toki lawa               = [[toki Kanse]]<br>[[toki Netelan]]<br>[[toki Tosi]]
+| nasin sewi              =
+| nasin lawa              =
+| jan lawa                = [[jan lawa Pili]]<br>[[jan Alesante Te Ku]]
+| tenpo open              =
+| tenpo pini              =
+| mani                    = [[mani Elo]]
+| tenpo                   = UTC+1
+| ISO 3166                = BE
+| sitelen ma              = [[sitelen:EU-Belgium.svg|250px]]
+| toki anpa pi sitelen ma = ma Pesije lon [[ma Elopa]] (laso pimeja)
+| lipu ilo                =
+| ma lili                 =
+}}
+'''ma Pesije''' li lon [[ma Elopa]]. toki pi ma Pesije li [[toki Netelan]] li [[toki Kanse]] li [[toki Tosi]] lili. nimi ona li ''Belgi'' lon toki Netelan li ''Belgique'' lon toki Kanse li ''Belgien'' lon toki Tosi. ona li poka pi [[ma Kanse]] li poka pi [[ma Netelan]] li poka pi [[ma Tosi]] li poka pi [[ma Lusepu]].
+[[ma tomo Puse]] li ma tomo lawa pi ma Pesije. jan mute li kepeken toki Netelan li kepeken toki Kanse lon ona.
+ma Pesije li jo e ma lili tu. jan li kepeken toki Kanse lon [[ma Waloni]], taso jan li kepeken toki Netelan lon [[ma Wantelen]]. jan mute lili li kepeken toki Tosi lon ma Waloni.
+ma Pesije li tawa e nasin pi wawa jan, taso tenpo ni la ona li tawa ala e nasin pi lawa jan.
+{{lili}}
+{{ma Elopa}}
+{{ilo Wikitata|Q31}}
+[[kulupu:ma Elopa|Pesije]]
+[[kulupu:ma Pesije]]
+[[kulupu:lipu ni li tan lipu Panton la o lukin]]

@@ -1,0 +1,14 @@
+{{sitelen nimi}}
+{{nimi ni li pu}}
+== kon ==
+# ''nimi ijo'': pilin ni: "ijo ni anu jan ni li pona mute tawa mi. mi wile lon poka ona."
+#: ''olin li pona.''
+# ''nimi ante'': jan ni li olin e ijo ni.
+#: ''jan olin mi li suwi mute.''
+# ''nimi pali'': o pilin ni tawa ijo/jan ante: "ona li pona mute tawa mi. mi wile lon poka ona."
+#: ''o olin e jan poka sina.''
+== tan ==
+[[toki Lowasi]]: {{toki ante| / volim}}, "olin"<ref>[https://docs.google.com/spreadsheets/d/1t-pjAgZDyKPXcCRnEdATFQOxGbQFMjZm-8EvXiQd2Po/edit lipu "nimi ale pona" pi jan Inwin]</ref>
+== kalama ==
+{{kalama nimi}}
+== tan sona ==

@@ -1,0 +1,39 @@
+{{poki sona ma
+|nimi ma=ma Kanse
+|nimi mama=France
+|len ma=[[sitelen:Flag of France.svg|border|130px]]
+|sitelen lawa=[[File:Armoiries rpublique franaise.svg|101x85px]]
+|kalama musi ma=La Marseillaise<br>[[File:La Marseillaise.ogg]]
+|sitelen ma=[[sitelen:EU-France (orthographic projection).svg|220px]]
+|toki anpa pi sitelen ma = ma Kanse (laso pimeja) lon [[kulupu ma Elopa]] (laso walo)
+|ma tomo lawa=[[ma tomo Paki]]
+|toki lawa=[[toki Kanse]]
+|toki ante=[[toki Apitan]], [[toki Esuka]], [[toki Katala]], [[toki Kosu]], [[toki Noman]], [[toki Peson]], [[toki Okitan]]
+|jan lawa=[[jan Emanu Makon]]
+|mani=[[mani Elopa]] ()
+|tenpo=UTC+1
+|ISO 3166=FR
+}}
+{{lili ike}}
+{{nimi ijo|'''ma Kanse'''|France|toki Kanse}} li ma lon [[ma Elopa]]. ona li lon selo pi [[ma Pesije]] pi [[ma Lusepu|ma Lusenpu]] pi [[ma Tosi]] pi [[ma Suwasi]] pi [[ma Italija]] pi [[ma Epanja]] pi [[ma Antola]] pi [[ma Monako]].. nanpa jan la ona li ma nanpa tu wan lon ma Elopa.
+toki suli ona li {{nimi ijo|[[toki Kanse]]|le franais|toki Kanse}}. tenpo pini la ona li jo e [[ma lawa suli]] lon kipisi ma ante.
+==tenpo pini==
+lon ma Kanse la, kulupu kama pi nanpa wan li alasa e soweli, li kama jo e moku. tenpo sike pini 1800000 la ona la kama.  tenpo mute pi lete mute li kama lon jan ni. tenpo ni la ma Kanse li jo e ma mute pi kulupu nanpa wan.
+lon 600 BCE la, kulupu Elena Ijonije (toki Elena: , In) en kulupu Keto (toki Lasin: Galli; toki Elena: , Kelto) li kama lon ma Kanse. kulupu Ijonije li pali e ma tomo Masalija (Massalia). tenpo ni la, ona li jo e nimi ni: ma Maseje (Marseille). kulupu Keto li kasi li pali e ma Kali (toki Kanse: Gaule). ma Kanse pi tenpo ni li jo e poka sama ma Kali.
+== ma ==
+===ma tomo suli===
+nanpa jan lon tenpo sike 2019 la ma tomo suli pi ma Kanse li ni:<ref>[https://statistiques-locales.insee.fr/#c=indicator&i=pop_legales.popmun&s=2019&t=A01&view=map13 "Population municipale 2019 - France par aire d'attraction des villes - Tableau"] ''Insee''</ref>
+#[[ma tomo Paki]] (''Paris'')                      13 114 718
+#[[ma tomo Lijon]] (''Lyon'')                      2 280 845
+#[[ma tomo Maseje]] (''Marseille'')                1 873 270
+#ma tomo Lile (''Lille'')                          1 510 079
+#ma tomo Tuluse (''Toulouse'')                     1 454 158
+#ma tomo Poto (''Bordeaux'')                       1 363 711
+#ma tomo Note (''Nantes'')                         1 011 020
+#ma tomo Tasepu (''Strasbourg'')                   853 110
+#ma tomo Monpelije (''Montpellier'')               801 595
+#ma tomo Len (''Rennes'')                          755 668
+{{ma Elopa}}
+[[kulupu:ma Kanse]]
+[[kulupu:ma Elopa]]
+[[kulupu:lipu ni li lon lipu Panton kin la o lukin]]

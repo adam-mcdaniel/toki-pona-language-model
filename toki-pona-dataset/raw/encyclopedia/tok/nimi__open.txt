@@ -1,0 +1,12 @@
+{{sitelen nimi}}
+{{nimi ni li pu}}
+== kon ==
+# ''nimi ijo'': ijo mute la, ijo nanpa wan. tenpo mute la, tenpo nanpa wan.
+# ''nimi ante'': ijo mute la, ijo nanpa wan. tenpo mute la, tenpo nanpa wan.
+# ''nimi pali'': tenpo pini la, ijo ante li pali ala. o pali e ni: tenpo ni en tenpo kama la, ijo ante li pali.
+# ''nimi pali'': tenpo pini la, jan li ken ala tawa kepeken lupa. o pali e ni: tenpo ni en tenpo kama la, jan li ken tawa kepeken ona.
+== tan ==
+[[toki Inli]]: ''{{toki ante|open}}, "o open e lupa" <ref>[https://docs.google.com/spreadsheets/d/1t-pjAgZDyKPXcCRnEdATFQOxGbQFMjZm-8EvXiQd2Po/edit lipu "nimi ale pona" pi jan Inwin]</ref>
+== kalama ==
+{{kalama nimi}}
+== nimi nasin sin ==

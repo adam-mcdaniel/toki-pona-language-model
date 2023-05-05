@@ -1,0 +1,41 @@
+{{poki sona toki
+|nimi toki=toki Nolon
+|nimi mama=Norrnt ml, Dnsk tunga
+|sitelen=[[sitelen:Rkstenen_1.JPG|200px]]
+|toki pi anpa sitelen={{nimi ijo|kiwen sitelen Lokitenen|Rkstenen}}
+|kulupu toki=Palata Elopa
+|ma=[[ma Sikantenawijen]]:
+*[[ma Nosiki]]
+*[[ma Sensa]]
+*[[ma Tansi]]<br>
+[[ma Isilan]]<br>
+[[ma Kalasi]]<br>
+[[ma Powija]]
+|toki pi tenpo pini=[[kulupu Kemani]]
+* toki Nolon
+** [[toki Nosiki]]
+** [[toki Tansi]]
+** [[toki Sensa]]
+** [[toki Isilan]]
+** [[toki Powija]]
+|nasin sitelen=[[sitelen Luno]], [[sitelen Lasina]]
+|ISO 639-2=non
+|ISO 639-3=non
+|Glottolog=oldn1244}}
+{{nimi ijo|toki Nolon|Norrnt ml|toki Nolon}} li toki pi tenpo pini. ona li toki pi [[ma Sikantenawijen]], li tan [[kulupu toki Kemani]]. [[toki Isilan]] en [[toki Powija]] en toki pi ma Sikantenawijen pi tenpo ni li kama tan ona.
+==toki Nolon en toki ante==
+===toki Nolon la toki pi ma Nosen pi tenpo sin===
+===nimi pi toki Inli tan toki Nolon===
+tenpo pini la, jan pi ma Sikantenawijen li tawa lon [[ma Inli]]. ona li pana e nimi mute tawa jan Inli. jan Inli li kepeken e nimi mute la, nimi mute li tan toki Nolon. ni li nimi pi [[toki Inli]] tan toki Nolon:
+*''They'' "ona" li tan nimi ''eir''.
+* ''Window'' "lupa tomo" li tan nimi ''vindauga''.
+*''Ugly'' "lukin ike" li tan nimi ''uggligr''.
+*''Get'' "kama jo" li tan nimi ''geta''.
+*''Give'' "pana" li tan nimi ''gefa''.
+* ''Likely'' "lukin ken" li tan nimi ''lkligr''.
+*''Husband'' "mije olin" li tan nimi ''hsbndi''.
+*''Knife'' "ilo kipisi" li tan nimi ''knfr''.
+*''Dirt'' "jaki ma" li tan nimi ''drit''.
+*''Rotten'' "lukin jaki" li tan nimi ''rotinn''.
+{{DEFAULTSORT:Nolon}}
+[[kulupu:toki moli]]

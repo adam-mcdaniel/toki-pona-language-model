@@ -1,0 +1,18 @@
+{{sitelen nimi}}
+{{nimi ni li pu}}
+== kon ==
+* jan li '''wile''' e ijo la, ni li lon: jan li jo e ona la, jan li pilin pona. jan li jo ala e ona la, jan li pilin ike. ken la, sijelo ona li ike.
+* jan li '''wile''' pali la, ni li lon: jan li pali e pali ni la, jan li pilin pona. jan li pali ala la, jan li pilin ike. ken la, sijelo ona li ike.
+# ''nimi ijo'': ijo/pali ni: jan li wile e ona.
+#: ''wile sina li seme?'': sina wile e seme?
+# ''nimi ante'': ijo/pali ni: jan li wile e ona.
+#: ''mi jo ala e moku wile sina lon tenpo ni.'': mi jo ala e moku ni: sina wile e ona.
+# ''nimi pali'': jan li wile e ijo.
+#: ''ilo sona li wile e wawa ilo.'': ilo sona li jo ala e wawa ilo la, ona li ken ala pali.
+# ''nimi open pi nimi pali'': jan li wile pali.
+#: ''jan lili li wile moku.'': jan lili li moku ala la, ona li pilin ike. sijelo ona li ike.
+== tan ==
+[[toki Netelan]]: {{toki ante|wile}}, "wile jan"<ref>[https://docs.google.com/spreadsheets/d/1t-pjAgZDyKPXcCRnEdATFQOxGbQFMjZm-8EvXiQd2Po/edit lipu "nimi ale pona" pi jan Inwin]</ref>
+== kalama ==
+{{kalama nimi}}
+== tan sona ==

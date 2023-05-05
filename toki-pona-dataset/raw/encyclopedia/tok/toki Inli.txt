@@ -1,0 +1,227 @@
+{{poki sona toki
+|nimi toki=toki Inli
+|nimi mama=English
+|sitelen=[[sitelen:Compact OED ahoy2 (cropped).png|220px]]
+|toki pi anpa sitelen=kon pi nimi tan toki Inli lon [[lipu nimi]] Inli
+|kalama=/.l/
+|ma=[[ma Inli]]<br>
+[[ma Alan]]<br>
+[[ma Mewika]]<br>
+[[ma Kanata]]<br>
+[[ma Oselija]]<br>
+[[ma Nusilan]]<br>
+ma ante mute|kulupu toki=Palata Elopa|toki pi tenpo pini=toki Inli pi tenpo pini
+*toki Inli pi tenpo insa
+**toki Inli open
+|nasin sitelen=[[sitelen Lasina]]
+|ISO 639-1=en
+|ISO 639-2=eng
+|ISO 639-3=eng
+|Glottolog=stan1293
+|Linguasphere=52-ABA
+|sitelen ma=[[sitelen:English language distribution.svg|220px]]|toki anpa pi sitelen ma={{kule pi sitelen ma|kule=#346699|kule selo=black|toki=ma pi toki Inli mute}}
+{{kule pi sitelen ma|kule=#99ccff|kule selo=black|toki=ma pi toki Inli lili}}
+|kulupu toki ante=* [[kulupu toki Kemani|Kemani]]
+** [[kulupu toki Kemani lon ma pi pini suno|Kemani lon ma pi pini suno]]
+*** [[kulupu toki Inkajewone|Inkajewone]]
+**** [[kulupu toki Anli Pisiki|Anli Pisiki]]
+***** [[kulupu toki Anli|Anli]]
+****** '''Inli'''}}
+{{nimi ijo|'''toki Inli'''|English|toki Inli||ipa=/.l/}} li toki suli lon ma mute. ona li toki pi kulupu Kemani. nimi ona li tan kulupu jan Enke pi ma Inli lon tenpo pini. taso nimi mute li tan [[toki Lasina]] li tan [[toki Noman]] li tan [[toki Elena]].
+==nimi==
+nimi "Inli" li tan nimi ''English'' pi toki Inli. nimi pi toki Inli li tan nimi pi kulupu Enke tan nimi ''*hen-'' pi [[toki Palata Elopa nanpa wan|toki Palata Elopa]].
+==kalama==
+===kalama pini===
+{| class="wikitable"
+!
+! colspan="2" scope="col" style="width: 5em;" |open uta
+! colspan="2" scope="col" style="width: 5em;" |kiwen uta
+! colspan="2" scope="col" style="width: 5em;" |nena uta
+! colspan="2" scope="col" style="width: 5em;" |monsi nena uta
+! scope="col" style="width: 5em;" |sewi kiwen
+! colspan="2" scope="col" style="width: 5em;" |sewi ko
+! scope="col" style="width: 5em;" | lupa
+|-
+!nena sinpin
+| colspan="2" |m
+| colspan="2" |
+| colspan="2" |n
+| colspan="2" |
+|
+| colspan="2" |
+|
+|-
+!pini toki
+|p||b
+| colspan="2" |
+| t|| d
+| colspan="2" |
+|
+|k||g
+|
+|-
+!pini toki weka
+| colspan="2" |
+| colspan="2" |
+| colspan="2" |
+|t||d
+|
+| colspan="2" |
+|
+|-
+!pini lili
+|f||v
+| ||
+|s||z
+| ||
+|
+| colspan="2" | (x)
+|h
+|-
+!nena lon poka
+| colspan="2" |
+| colspan="2" |
+| colspan="2" |l
+| colspan="2" |
+|j
+|()||w
+|
+|}
+jan mute li kepeken ala kalama // anu kalama /x/. nasin toki pi ma Alpa la /x/ li lon nimi ''loch'' /lox/ (ma telo). nasin toki lon noka ma Mewika la // li lon nimi ''white'' /at/ (walo).
+===kalama open===
+nasin toki Inli la kalama open pi toki Inli li ante mute.
+<div style="display: inline-block; vertical-align:top;">
+{| class="wikitable" style="text-align: center;"
+|+
+toki Inli nasin pi [[ma Juke]]
+! rowspan="2" |
+! colspan="2" |sinpin
+! colspan="2" |insa
+! colspan="2" |monsi
+|-
+!<span style="font-size: 85%">suli</span>
+!<span style="font-size: 85%">lili</span>
+!<span style="font-size: 85%">suli</span>
+!<span style="font-size: 85%">lili</span>
+!<span style="font-size: 85%">suli</span>
+!<span style="font-size: 85%">lili</span>
+|-
+!sewi
+|i
+|
+|u
+|
+|
+|
+|-
+!insa
+|e
+|e
+|
+|
+|
+|
+|-
+!anpa
+|
+|
+|
+|
+|
+|
+|-
+!kalama tu
+| colspan="6" |e  a    a      
+|-
+!kalama mute
+| colspan="6" |(e  a    a  )
+|}
+</div>
+<div style="display: inline-block; vertical-align:top;">
+{| class="wikitable" style="text-align: center;"
+|+
+toki Inli pi [[ma Mewika]]
+! rowspan="2" |
+! colspan="2" |sinpin
+! colspan="2" |insa
+! colspan="2" |monsi
+|-
+!<span style="font-size: 85%">wawa</span>
+!<span style="font-size: 85%">wawa ala</span>
+!<span style="font-size: 85%">wawa</span>
+!<span style="font-size: 85%">wawa ala</span>
+!<span style="font-size: 85%">wawa</span>
+!<span style="font-size: 85%">wawa ala</span>
+|-
+!sewi
+|i
+|
+|
+|
+|u
+|
+|-
+!insa
+|e
+|
+|
+|
+|o
+|()
+|-
+!anpa
+|
+|
+|
+|
+|
+|
+|-
+!kalama tu
+| colspan="6" |a    a
+|}
+</div>
+<div style="display: inline-block; vertical-align:top;">
+{| class="wikitable"
+|+
+toki Inli pi [[ma Oselija]]
+! rowspan="2" |
+! colspan="2" |sinpin
+! colspan="2" |insa
+! colspan="2" |monsi
+|-
+!<span style="font-size: 85%">suli</span>
+!<span style="font-size: 85%">lili</span>
+!<span style="font-size: 85%">suli</span>
+!<span style="font-size: 85%">lili</span>
+!<span style="font-size: 85%">suli</span>
+!<span style="font-size: 85%">lili</span>
+|-
+!sewi
+|i
+|
+|
+|
+|o
+|
+|-
+!insa
+|e
+|e
+|
+|
+|
+|
+|-
+!anpa
+|
+|
+|a
+|a
+|
+|
+|-
+!kalama tu
+| colspan="6" |    o        ()
+|}
+</div>

@@ -1,0 +1,1020 @@
+{{nasin toki ike}}{{poki sona toki|nimi toki= toki Epanja
+|nimi mama=espaol<br>
+castellano
+|kalama=[espaol]<br>
+[kasteano] [kasteano] [kastejano]| ma        = {{toki len
+|nimi = [[toki Epanja#ma pi toki Epanja|ma pi toki Epanja]]
+|toki = [[ma Alensina]]<br>[[ma Antola]]<br>[[ma Ekuwato]]<br>[[ma Epanja]]<br>[[ma Ontula]]<br>[[ma Kosalika]]<br>[[ma Kupa]]<br>[[ma Mesiko]]<br>[[ma Sile]]<br>[[ma Palakawi]]<br>[[ma Panama]]<br>[[ma Pelise]]<br>[[ma Pelu]]<br>[[ma Penesuwela]]<br>[[ma Polipija]]<br>[[ma Tominika]]<br>[[ma Ulukawi]]<br>[[ma Katemala]]}}
+|kulupu toki=Palata Elopa
+|ISO 639-1= es
+|ISO 639-2= spa
+|ISO 639-3= spa
+|nasin sitelen=[[sitelen Lasina]]
+|sitelen ma=
+|toki anpa pi sitelen ma=
+|kule kulupu=Palata Elopa
+}}
+{{nimi ijo|'''toki Epanja'''|espaol|toki Epanja||ipa=}} anu {{nimi ijo|'''toki Katejano'''|castellano|toki Epanja||ipa=}} li toki pi [[kulupu toki Palata Elopa#toki mute tan toki Lasina|kulupu toki Loma]] tan [[ma Epanja]]. jan pi ma Epanja en jan mute pi [[ma Amelika seli]] li kepeken ona. taso ona li toki suli pi ma ale.
+==nimi toki==
+[[sitelen:Castellano-Espaol-es.png|thumb|nimi ''espaol'' lon kule laso en nimi ''castellano lon kule loje'']]
+nimi tu li lon. jan mute li kepeken nimi ''espaol''. taso jan ante li kepeken nimi ''castellano''. nimi ''espaol'' li tan nimi ''Hispaniola'' pi [[toki Lasina]]. nimi ''castellano'' li tan nimi pi {{nimi ijo|ma lawa Kasija|el reino de Castilla|toki Epanja||ipa=}}.
+nimi pi [[toki pona]] li tan nimi ma ''Espaa''.
+==kulupu pi toki Epanja==
+kulupu pi toki Epanja li lon ma Epanja li lon ma mute pi ma Amelika seli. toki Epanja li kama tan toki Lasina. jan li sitelen e toki Epanja kepeken [[sitelen Lasina]].
+== ma pi toki Epanja ==
+toki Epanja li toki pi nanpa wan lon ma ni:
+toki Epanja pi ma Amelika:
+* [[ma Alensina]]
+* [[ma Antola]]
+* [[ma Ekuwato]]
+* [[ma Katemala]]
+* [[ma Kosalika]]
+* [[ma Kupa]]
+* [[ma Mesiko]]
+* [[ma Ontula]]
+* [[ma Sile]]
+* [[ma Palakawi]]
+* [[ma Panama]]
+* [[ma Pelise]]
+* [[ma Pelu]]
+* [[ma Penesuwela]]
+* [[ma Polipija]]
+* [[ma Tominika]]
+* [[ma Ulukawi]]
+toki Epanja pi ma Epanja:
+* [[ma Epanja]]
+ma ante mute li toki e ni kin. taso toki Epanja li toki lawa ala lon ma ante ni.
+==kalama==
+[[sitelen:Spanish vowel chart.svg|thumb|kalama open pi toki Epanja]]
+{| class="wikitable"
+|+kalama open
+!
+!sinpin
+!monsi
+|-
+!sewi
+| i
+|u
+|-
+!insa
+|e
+|o
+|-
+!anpa
+| colspan="2" |a
+|}
+{| class="wikitable"
+|+kalama pini
+!
+! colspan="2" |selo tu
+! colspan="2" |kiwen
+!nena uta
+!monsi nena
+!sewi kiwen
+! colspan="2" |sewi ko
+|-
+!nena
+| colspan="2" |m
+! colspan="2" |
+|n
+!
+|
+! colspan="2" |
+|-
+! pini
+|p
+| rowspan="2" | b~
+|t
+| rowspan="2" |d~
+|
+|t
+| rowspan="2" |~j
+|k
+| rowspan="2" |g~
+|-
+!kon tawa
+|f
+|~s*
+|s
+|()
+|x~h
+|-
+!kon poka
+! colspan="4" rowspan="3" |
+|l
+!
+|~j*
+! colspan="2" |
+|-
+!pini lili
+|
+! colspan="4" rowspan="2" |
+|-
+!sijelo tawa
+|r
+|}
+* kalama ni li ken ante lon toki kule
+*  en  li kin kama tan lon. lon ma Epanja sewi, ni li  lon ma Epanja sewi taso  lon toki nasin Epanja. sina ken lukin e ni tan toki "Vaya valla" (leko a), lon ante ma,  li wan tawa .  li  tan open nimi taso  tan open nimi ala, lon ma Epanja sewi (en toki nasin Epanja?). ni li  anu j lon ma Epanja anpa. lon ma Amelika li kama tan ma Mesiko  tawa ma Ankensina . kin, j li ken e ante kalama, sina ken lukin e ni tan toki ante ya, ia (tenpo ni, kalama pi utala noka).
+* kalama b d g li kama tawa    lon meso kalama lili. kin, w en w li ken wan tawa w anu ante ni (o ken lukin tan huevo, bueno en agua, ni li toki tan webo, weno, agua anu gebo, geno, aga lon ma Epanja anpa en ma Amelika lon tenpo mute.
+==sitelen pi toki Epanja ==
+toki Epanja li sitelen kepeken toki Lasina. sitelen Lasina ale li lon ala toki Epanja: sitelen W en sitelen K li lon nimi pi ma ante taso.
+{| class="wikitable"
+!A
+!B
+!V
+! colspan="2" |C*
+!CH
+!D
+!E
+!F
+! colspan="2" |G*
+! colspan="3" |GU*
+!G
+! colspan="2" |H***
+!I
+!J
+!K
+!L
+!LL
+!M
+!N
+!
+!O
+!P
+! colspan="2" |QU
+!CU/QU
+! colspan="2" |R
+!RR/R****
+!S
+!T
+!U
+!W
+! colspan="4" |X**
+!Y
+!Z
+|-
+|
+| colspan="2" |b~
+|k
+|~s
+|t
+|d~
+|e
+|f
+|g~
+|x~h
+|gw/w
+|g
+| colspan="2" |gw/w
+|ala
+|h
+|i~j
+|x~h
+|k
+|l
+|~j
+|m
+|n
+|
+|o
+|p
+|k
+| colspan="2" |kw
+|
+| colspan="2" |r
+|s
+|t
+|u~w
+|w
+|ks
+|s
+|x~h
+|
+|~j
+|~s
+|}
+<nowiki>*</nowiki> Ci en Ce li kalama e kalama  (~s, x~h, g) taso Ca en Co en Cu li kalama e kalama wan (k, g~, gw/w), cC li kalama sama k, guC li kalama tawa [gu] en C, gC li ken kalama sama g en C anu j en C lon ma Epanja (lag li kalama tan [lax] anu [lag]).
+<nowiki>**</nowiki> X li kalama tan ks anu s (xi, xe) lon ma Epanja, taso lon ma Amelika, li ken kalama tan x~h en  en ante anpa kalama (ks, s).
+<nowiki>***</nowiki> H li kalama tan ala taso mute nimi li jo e h lpi ni li kalama tan h (hobby).
+<nowiki>****</nowiki> R li kalama tan r lon open nimi, lon ante lon, r li sitelen tan rr (doble erre)
+sitelen pi toki Epanja:
+{| class="wikitable"
+!A
+!B
+!C
+!CH*
+!D
+!E
+!F
+!G
+!H
+!I
+|-
+|a
+|be
+|ce
+|che
+|de
+|e
+|efe
+|ge
+|hache
+|i
+|-
+|a
+|be
+|e
+|te
+|de
+|e
+|efe
+|xe
+|ate
+|i
+|-
+!J
+!K
+!L
+!LL*
+!M
+!N
+!
+!O
+!P
+!Q
+|-
+|jota
+|ka
+|ele
+|elle
+|eme
+|ene
+|ee
+|o
+|pe
+|cu/qu
+|-
+|xota
+|ka
+|ele
+|ee
+|eme
+|ene
+|ee
+|o
+|pe
+|ku
+|-
+!R
+!S
+! colspan="2" |T
+!U
+!V
+!W
+!X
+!Y
+!Z
+|-
+|erre
+|ese
+| colspan="2" |te
+|u
+|uve/ve
+|uve doble/doble ve
+|equis
+|i griega/ye
+|zeta
+|-
+|ere
+|ese
+| colspan="2" |te
+|u
+|ue/e
+|ue doble/doble e
+|ekis
+|i griea/e
+|eta
+|}
+<nowiki>*</nowiki> Ch en LL li lon ala tan sitelen, taso li jo e nimi ante tan c + h en l + l taso sina li ken toki e "ce ache" en "doble ele" la sina li wile kepeken ala e nimi ante.
+===sitelen kule===
+toki Epanja li jo e 6 sitelen pi jo e sitelen kule:
+     
+pini sitelen li jo e sitelen kule Sijelesin (Diresis) anu sitelen kule pi sike tu. ni li kepeken tan ante e [g] e [gw]
+o lukin e ni:
+[e] ce "cerca" poka.
+[ke] que "querido" mije
+[kwe] cue "cuerda" len linja.
+[xe] e "generar" mama.
+[e] ue "guerra" utala.
+[we] e "cigea" jan sin waso.
+tan k, jan li ken ante tan c en q, taso g li jo ala e ante sitelen, taso c, c li jo e q. ni li nasin tan .
+open luka li jo e sitelen kule Sinte ("Tilde") anu sitelen kule sewi ("acento agudo").
+sitelen kule sewi li kepeken tan sona e wawa toki.
+===wawa toki===
+nimi li jo e wan toki ilo nanpa pi li namako wawa tan ale ante.
+nimi li ken e wawa Akuta e wawa Jana e wawa Etukula. wawa Akuta li jo e wawa tan toki ilo nanpa pini, wawa Jana li jo e wawa tan toki ilo nanpa pi wan weka pini.
+wawa Etukula li jo e wawa tan toki ilo nanpa pi tu weka pini, wawa li ken lon tan toki ilo nanpa pi namako tu pi weka pino, taso ni li sama tan wawa Etukula.
+Wawa Etukula li jo e sitelen kule Sinte lon tenpo ale.
+nimi pi ni li pini tan kalama lili, tan n, tan s la ni li jo e sitelen kule Sinte lon tenpo pi ni li wawa Akuta.
+taso nimi pi ni li pini tan kalama suli ante n, ante s la ni lo jo e sitelen kule Sinte lon tenpo pi ni li wawa Akuta.
+== nimi poki==
+{| class="wikitable"
+! colspan="2" rowspan="3" |
+! colspan="4" |wan
+! colspan="4" |mute
+|-
+! colspan="3" |kin
+!kin ala
+! colspan="3" |kin
+!kin ala
+|-
+!tan
+!tawa
+!jo
+!tawa
+!tan
+!tawa
+!jo
+!tawa
+|-
+! rowspan="3" |mi
+!mije
+| rowspan="3" |yo
+| colspan="2" rowspan="3" |mi
+| rowspan="3" |me
+| colspan="2" |nosotros
+|nuestro
+| rowspan="3" |nos
+|-
+!meli
+| colspan="2" |nosotras
+|nuestra
+|-
+!tonsi*
+| colspan="2" |nosotres
+|nuestre
+|-
+! rowspan="3" |sina
+!mije
+| rowspan="3" |t
+| rowspan="3" |ti
+| rowspan="3" |tu
+| rowspan="3" |te
+| colspan="2" |vosotros
+|vuestro
+| rowspan="3" |os
+|-
+!meli
+| colspan="2" |vosotras
+|vuestra
+|-
+!tonsi*
+| colspan="2" |vosotres
+|vuestre
+|-
+! colspan="2" |sina-ona*
+| colspan="4" |usted
+| colspan="4" |ustedes
+|-
+! rowspan="4" |ona
+!mije
+| colspan="2" |l
+| rowspan="4" |su
+| rowspan="3" |le
+| colspan="2" |ellos
+| rowspan="4" |sus
+| rowspan="3" |les
+|-
+!jan*
+| colspan="2" |ello
+| colspan="2" |ellos
+|-
+!tonsi*
+| colspan="2" |elle
+| colspan="2" |elles
+|-
+!meli
+| colspan="2" | ella
+|la
+| colspan="2" |ellas
+|las
+|}
+*toki tonsi li kepeken mute ala.
+*jan sina-ona li sama tan sina, taso nimi pali li kepeken e jan ona pini
+===jan nanpa tu tu===
+toki Epanja li jo e nasin pi jan kule. toki Epanja li ante tawa mije, tawa meli.
+{| class="wikitable"
+!
+! colspan="2" |selo
+! colspan="2" |selo ala
+|-
+!
+!wan
+!mute
+!wan
+!mute
+|-
+!meli
+|la
+|las
+|una
+|unas
+|-
+!tonsi*
+|le
+|les
+|une
+|unes
+|-
+! mije
+|el
+| rowspan="2" |los
+|un
+| rowspan="2" |unos
+|-
+!jan*
+|lo
+|uno
+|}
+*jan li kepeken nimi poki pi kule sona ala.
+*toki tonsi li kepeken mute ala.
+== nimi selo sona==
+nimi pi toki Epanja li jo e sona tan ni li wan taso ni li namako tan wan (mute, luka...)
+ale nimi li wan, ni li namako tan wan la sina jo e tu nasin:
+nimi ni li pini tan kalama lili la sina pana e "-s" tan nimi ni.
+nimi ni li pini tan kalama suli la sina pana e "-es" tan nimi ni.
+taso ale ala nimi li pona, nimi pi mute lili li kepeken ala e nasin ni.
+{| class="wikitable"
+!
+!"casa" tomo
+!"color" kule
+!"robot" ilo jan
+|-
+!wan
+|casa
+|color
+|robot
+|-
+!mute
+|casa-s
+|color-es
+|robot-s
+|}
+ale nimi pi toki Epanja li jo e toki kulupu, ni li ken e toki mije, taso toki meli.
+mute nimi li jo e wan toki kulupu, taso mute lili ken jo e sona pi toki kulupu
+kin, nimi pilin o sona e toki kulupu.
+nimi li pini tan kalama lili:
+toki mije li pini e "-o" tan wan, e "-os" tan mute.
+toki meli li pini e "-a" tan wan, e "-as" tan mute.
+toki tonsi li pini e "-e" tan wan, e "-es" tan mute, taso toki tonsi li kepeken mute ala.
+nimi li pini tan kalama suli:
+toki mije li pini e ala tan wan, e "-es" tan mute.
+toki tonsi li pini e "-e" tan wan, e kin "-es" tan mute, taso toki tonsi li kepeken mute ala.
+taso ale ala nimi li pona, nimi pi mute lili li kepeken ala e nasin ni.
+{| class="wikitable"
+! rowspan="2" |
+! colspan="3" |"amigo" jan pona
+! colspan="3" | "bailador" jan pi kama musi
+! colspan="3" |"actor" jan pi pali sama
+|-
+!mije
+!meli
+!tonsi
+!mije
+!meli
+!tonsi
+!mije
+!meli
+!tonsi
+|-
+!wan
+|amig-o
+|amig-a
+|amigu-e
+|bailador
+|bailador-a
+|bailador-e
+|actor
+|actriz
+|actor-e
+|-
+!mute
+|amig-os
+|amig-as
+|amigu-es
+|bailador-es
+|bailador-as
+|bailador-es
+|actor-es
+|actric-es
+|actor-es
+|}
+==nimi pali==
+nimi pali li ken jo e san pini.
+nimi lili* + (kalama lili kin) - (nasa pini) - (jan pini).
+*nimi lili li awen taso [https://wikipesija.org/wiki/toki_Epanja#kalama_lili_meso_tawa kalama lili meso tawa].
+{| class="wikitable"
+|+jan pini
+! colspan="2" |tenpo
+! ni
+!pini
+|-
+! rowspan="3" |wan
+!wan
+|  -o
+|  -/
+|-
+! tu
+|  -s
+| -ste
+|-
+!san
+|  -
+| -
+|-
+! rowspan="3" |mute
+!wan
+| colspan="2" |  -mos
+|-
+!tu
+| -is
+| -stis
+|-
+!san
+|  -n
+| -ron
+|}
+* tenpo pini pi wan pi jan pi nanpa wan:  li mama tan majuna * tan kalama lili kin  en 
+nimi pali li pana tawa sina lon selo awen. selo awen li pini tan -r, taso san kulupu pali li lon:
+* pali kulupu pi nanpa wan: selo awen li pini tan -ar (amar: li olin)
+* pali kulupu pi nanpa tu: selo awen li pini tan -er (comer: li moku)
+* pali kulupu pi nanpa san: selo awen li pini tan -ir (vivir: li pilin)
+nimi lili li mama tan sina li weka e -ar e -er e -ir (amar: am-, comer: com-, vivir: viv-)
+=== pali pi tenpo ni ===
+nimi lili ''(- kalama lili kin)'' + jan pini pi tenpo ni
+{| class="wikitable"
+!
+!amar
+!comer
+!vivir
+|-
+!Yo
+|am-o
+|com-o
+|viv-o
+|-
+!T
+|am-''a''-s
+|com-''e''-s
+|viv-''e''-s
+|-
+!l / Ella
+|am-''a''
+|com-''e''
+|viv-''e''
+|-
+!Nosotr@s
+|am-''a''-mos
+|com-''e''-mos
+|viv-''i''-mos
+|-
+!Vosotr@s
+|am-''''-is
+|com-''''-is
+|viv-s
+|-
+!Ell@s
+|am-''a''-n
+|com-''e''-n
+|viv-''e''-n
+|}
+=== pali pi tenpo kama ===
+nimi lili + ''kalama lili kin'' + nasa pini (r(e)) + jan pini pi tenpo ni (taso wan pi jan nanpa wan (-o) li kama tawa - en wan pi jan nanpa san li kama tawa - en -n li kama tawa -an)
+{| class="wikitable"
+!
+!amar
+!comer
+!vivir
+|-
+! Yo
+|am-''a''-r-
+|com-e-r-
+| viv-i-re
+|-
+!T
+|am-''a-r-as''
+|com-''e''-r-as
+| viv-i-r-as
+|-
+!l / Ella
+|am-''a-r-''
+| com-''e-r-''
+|viv-i-r-
+|-
+!Nosotr@s
+|am-''a''-re-mos
+|com-''e''-re-mos
+|viv-''i''-re-mos
+|-
+!Vosotr@s
+| am-''a''-r-is
+|com-''e-re''-is
+|viv-i-re-s
+|-
+! Ell@s
+|am-''a''-r-an
+|com-''e''-r-an
+| viv-''i-r''-an
+|}
+===pali pi tenpo pini  ===
+toki Epanja li jo e tu pali pi tenpo pini.
+====pali pi tempo pini kama wan ====
+pali pi tenpo pini ni li kepeken lon tenpo pi pali ni li lon lon tempo pini taso lon tenpo ni pali ni li lon ala anu pali ni li pali lon tenpo pini lili:
+Yo amaba a Juan: mi olin e ona Kuwan (taso lon tenpo ni mi olin ala e ona)
+pali ni li tan pali kulupu nanpa wan la: nimi lili + nasa pini (ab) + ''kalama lili kin (a)'' + jan pini pi tenpo ni (taso -o li kama tawa -a)
+pali ni li tan kulupu nanpa wan ala la: nimi lili + nasa pini (a)  + jan pini pi tempo ni (taso wan pi jan nanpa wan li ala (-))
+{| class="wikitable"
+!
+!amar
+!comer
+!vivir
+|-
+!Yo
+|am-ab-a
+|com-a
+|viv-a
+|-
+!T
+|am-ab-''a''-s
+| com-a-s
+|viv-a-s
+|-
+!l / Ella
+|am-ab-''a''
+|com-a
+| viv-a
+|-
+!Nosotr@s
+|am-ab-''a''-mos
+|com-a-mos
+|viv-a-mos
+|-
+!Vosotr@s
+|am-b-''a''-is
+|com-a-is
+|viv-a-is
+|-
+!Ell@s
+|am-ab-''a''-n
+|com-a-n
+|viv-a-n
+|}
+==== pali pi tenpo pini awen wan ====
+pali pi tenpo pini ni li kepeken lon tenpo pi pali ni li pali lon tenpo pini mute:
+Yo am a Juan: mi olin e ona Kuwan lon tenpo pini (lon tenpo ni, ni li ken lon li ken ala)
+nimi lili ''(+ kalama lili kin)'' + jan pini pi tenpo pini
+{| class="wikitable"
+!
+!amar
+!comer
+!vivir
+|-
+!Yo
+|am-
+|com-
+|viv-
+|-
+!T
+|am-a-ste
+| com-i-ste
+|viv-i-ste
+|-
+!l / Ella
+|am-
+|com-i-
+| viv-i-
+|-
+!Nosotr@s
+|am-a-mos
+|com-i-mos
+|viv-i-mos
+|-
+!Vosotr@s
+|am-a-steis
+|com-i-steis
+|viv-i-steis
+|-
+!Ell@s
+|am-a-ron
+|com-ie-ron
+|viv-e-ron
+|}
+=== pali pi tenpo ken ===
+pali pi tenpo ken li kepeken lon tenpi pi pali ni li ken pali la pali ante li pali:
+nimi lili + kalama lili kin + nasa pini (ra) + jan pini pi tenpo ni (-/ liu kama tawa ala (-))
+{| class="wikitable"
+!
+!amar
+!comer
+!vivir
+|-
+!Yo
+|am-a-ra
+|com-e-ra
+|viv-i-ra
+|-
+!T
+|am-a-ra-s
+| com-e-ra-s
+|viv-i-ra-s
+|-
+!l / Ella
+|am-a-ra
+|com-e-ra
+| viv-i-ra
+|-
+!Nosotr@s
+|am-a-ra-mos
+|com-e-ra-mos
+|viv-i-ra-mos
+|-
+!Vosotr@s
+|am-a-ra-is
+|com-e-ra-is
+|viv-i-ra-is
+|-
+!Ell@s
+|am-a-ra-n
+|com-e-ra-n
+|viv-i-ra-n
+|}
+=== kalama lili meso tawa ===
+mute lili pali li kama e kalama lili e anu o tawa ie anu ue lon mute selo pi pali pi tenpo ni
+(wan pi jan nanpa wan en tu, wan en mute pi jan nanpa san)
+{| class="wikitable"
+! colspan="2" rowspan="2" |
+! colspan="2" |pali pi tenpo ni
+! colspan="2" |pali pi tenpo kama
+|-
+!wan pi jan nanpa wan
+!mute pi jan nanpa wan
+!wan pi jan nanpa wan
+!mute pi jan nanpa wan
+|-
+!-KLMT
+!Vender
+|(Yo) v'''e'''ndo
+|(Nosotros) v'''e'''ndemos
+|(Yo) v'''e'''nder
+|(Nosotros) v'''e'''nderemos
+|-
+!+KLMT
+!Perder
+|(Yo) p'''''ie'''''rdo
+|(Nosotros) p'''''e'''''rdemos
+|(Yo) p'''e'''rder
+|(Nosotros) p'''e'''rderemos
+|-
+!-KLMT
+!Orar
+|(Yo) '''o'''ro
+|(Nosotros) '''o'''ramos
+|(Yo) '''o'''rar
+|(Nosotros) '''o'''raremos
+|-
+!+KLMT
+!Morir
+|(Yo) m'''''ue'''''ro
+|(Nosotros) m'''''o'''''rimos
+|(Yo) m'''o'''rir
+|(Nosotros) m'''o'''riremos
+|}
+=== selo pi jan ala ===
+selo pi jan ala li jo ala e jan pini. ni li san:
+==== selo awen ====
+selo awen li kepeken tawa lon sina wile toki e pali weka jan, lon tenpo mute ni li kepeken lon kulupu pali:
+Se est empezando a dormir: ona li open lape, lon la: ona li open e lape
+nimi pali + kalama lili (a anu e anu i) + r
+{| class="wikitable"
+!kulupu pali
+!pini
+!pali
+|-
+!wan
+| -a-r
+|amar
+|-
+!tu
+| -e-r
+|comer
+|-
+!san
+| -i-r
+|vivir
+|}
+==== selo pini ====
+selo pini li kepeken tan kama tenpo:
+nimi pali + kalama lili (a anu i) + do
+{| class="wikitable"
+!kulupu pali
+!pini
+!pali
+|-
+!wan
+|  -a-do
+|amado
+|-
+!tu
+| rowspan="2" |  -i-do
+|comido
+|-
+!san
+|vivido
+|}
+==== selo tawa ====
+nimi pali + kalama lili (a anu ie) + ndo
+{| class="wikitable"
+!kulupu pali
+!pini
+!pali
+|-
+!wan
+|  -a-ndo
+|amando
+|-
+!tu
+| rowspan="2" |  -ie-ndo
+|comiendo
+|-
+!san
+|viviendo
+|}
+===pali pi tenpo wile===
+====pali pi tenpo wile 1====
+nimi lili + e/a + jan pini pi tenpo ni.
+{| class="wikitable"
+!
+!amar
+!comer
+!vivir
+|-
+!Yo
+|am-e
+|com-a
+|viv-a
+|-
+!T
+|am-e-s
+| com-a-s
+|viv-a-s
+|-
+!l / Ella
+|am-e
+|com-a
+|viv-a
+|-
+!Nosotr@s
+|am-e-mos
+| com-a-mos
+|viv-a-mos
+|-
+!Vosotr@s
+|am--is
+|com--is
+|viv--is
+|-
+!Ell@s
+|am-e-n
+|com-a-n
+|viv-a-n
+|}
+====pali pi tenpo wile 2====
+nimi lili + a/ie + ra/se + jan pini pi tenpo ni.
+{| class="wikitable"
+!
+!amar
+!comer
+!vivir
+|-
+!Yo
+|am-a-ra/se
+|com-ie-ra/se
+|viv-ie-ra/se
+|-
+!T
+|am-a-ra/se-s
+| com-ie-ra/se-s
+|viv-ie-ra/se-s
+|-
+!l / Ella
+|am-a-ra/se
+|com-ie-ra/se
+|viv-ie-ra/se
+|-
+!Nosotr@s
+|am-a-ra/se-mos
+| com-ie-ra/se-mos
+|viv-ie-ra/se-mos
+|-
+!Vosotr@s
+|am--ra/se-is
+|com-i-ra/se-is
+|viv-i-ra/se-is
+|-
+!Ell@s
+|am-a-ra/se-n
+|com-ie-ra/se-n
+|viv-ie-ra/se-n
+|}
+=== pali kama tenpo ===
+pali Haber + selo pini
+sina li ken mama e pali kama tenpo tan tenpo ale, sina wile pali e pali Haber lon tenpo pi wile sina.
+tenpo ni > kama tenpo ni.
+tenpo kama > kama tenpo kama.
+tenpo pini pi kama wan > kama tenpo pini pi kama wan.
+tenpo pini pi awen wan > kama tenpo pini pi awen wan.
+{| class="wikitable"
+!
+!tenpo ni
+!tenpo kama
+!tenpo pino pi kama wan
+!tenpo pini pi awen wan
+!tenpo ken
+!pali pi tenpo wile 1
+!pali pi tenpo wile 2
+|-
+!Yo
+|he
+|habr
+|haba
+|hube
+|habra
+|haya
+|hubiera o hubiese
+|-
+!T
+|has
+| habras
+|habas
+|hubiste
+|habras
+|hayas
+|hubieras o hubieses
+|-
+!l / Ella
+|ha
+| habra
+|haba
+|hubo
+|habra
+|haya
+|hubiera o hubiese
+|-
+!Nosotr@s
+| hemos
+| habremos
+|habamos
+|hubimos
+|habramos
+|hayamos
+|hubiramos o hubisemos
+|-
+! Vosotr@s
+|habis
+|habris
+|habais
+|hubisteis
+|habrais
+|hayis
+|hubierais o hubieseis
+|-
+!Ell@s
+|han
+| habran
+|haban
+|hubieron
+|habran
+|hayan
+|hubieran o hubiesen
+|}
+== nimi pi toki Epanja ==
+*'''toki!''' = Hola!
+*'''mi tawa.''' / '''tawa pona.''' = Adis.
+*'''mi wile (e) ___.''' = (Yo) Quiero  ___.
+*'''mute seme?''' = Cunto?
+*'''tomo telo li lon seme?''' = Dnde est el bao?
+*'''sina sona ala sona e toki pona?''' = Habla usted toki pona?
+*'''mi sona ala.''' = No s.
+*'''mi sona e ni.''' = Lo s.
+*'''nimi sina li seme?''' = Cmo te llamas?
+*'''nimi ona li seme?''' = Cmo se llama (el/ella)?
+*'''nimi mi li ____.''' = Mi nombre es ____. / Me llamo ____.
+*'''mi wile moku.''' = Tengo hambre.
+*'''mi''' = yo
+*'''sina''' = t
+*'''ona''' = l / ella / elle (mije la ona li nimi ''l''. meli la ona li nimi ''ella''. tonsi la ona li nimi ''elle''. sina ken lukin namako tan [https://wikipesija.org/wiki/toki_Epanja#nimi_poki nimi poki])
+*'''mi pona lukin!''' = Soy guapo/guapa/guape (sina mije la o kepeken nimi ''guapo''. sina meli la o kepeken nimi ''guapa''. sina tonsi la o kepeken nimi ''guape''. sina ken lukin namako tan [https://wikipesija.org/wiki/toki_Epanja#nimi_selo_sona nimi selo sona])
+[[kulupu:toki|Epanja]]
+[[kulupu:kulupu toki tan toki Lasina]]
+[[kulupu:lipu ni li tan lipu Panton la o lukin]]
+[[kulupu:lipu ni li lon lipu Panton kin la o lukin]]

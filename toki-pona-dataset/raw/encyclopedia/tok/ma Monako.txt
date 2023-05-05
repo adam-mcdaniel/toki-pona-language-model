@@ -1,0 +1,29 @@
+{{poki sona ma|
+| nimi ma                 = ma Monako
+| nimi mama               = Monaco
+| ma                      =
+| sitelen                 = [[sitelen:Monaco aerial view.jpg|270px]]
+| toki pi anpa sitelen    =
+| len ma                  = [[sitelen:Flag of Monaco.svg|120px]]
+| sitelen lawa            = [[File:Coat of Arms of Monaco.svg|90px]]
+| kalama musi ma          = ''Hymne Mongasque''<br>(kalama musi pi ma Monako)<br>[[sitelen:Monaco National Anthem.ogg]]
+| toki lawa               = [[toki Kanse]]
+| toki ante               = [[toki Italija]]<br>[[toki Monako]]
+| nasin sewi              = [[nasin sewi Katolika]] (lawa)
+| nasin lawa              =
+| jan lawa                = [[jan lawa Ape nanpa tu]]<br>[[jan Pije Tato]]
+| tenpo open              =
+| tenpo pini              =
+| mani                    = [[mani Elo]]
+| tenpo                   = UTC+1
+| ISO 3166                = MC
+| sitelen ma              = [[sitelen:Location Monaco Europe.png|220px]]
+| toki anpa pi sitelen ma = ma Monako lon [[ma Elopa]] (o lukin sike laso)
+| lipu ilo                = http://www.gouv.mc/
+}}
+'''ma Monako''' li [[ma lawa]] lili li [[ma tomo]] lon [[ma Elopa|ma suli Elopa]]. [[ma Kanse]] en [[telo suli Mesitewane]] li sike e ona. jan pi ma Monako li jo e mani mute. jan wan li lawa e ona. tenpo ni la, jan lawa li [[jan lawa Ape nanpa tu]].
+tenpo pini mute la, jan lawa pi nanpa wan li jan lawa Pansuwa Kimati. ona li pali e ma Monako. ma Monako li kama e ma lawa lon tenpo sike 1297. ma Monako li lon ala [[kulupu Elopa Wan|kulupu wan pi ma Elopa]]. taso ona li kepeken e [[mani Elo]]. jan mute li kama ma Monaka tan ni: ona li wile kama e tomo pi wile mani Kasinotemontekalo. jan mute li wile lukin e utala musi pi tomo tawa wawa ''Grand Prix''. nimi pi ma Monako li kama tan nimi '''' (mnoikos). ona li nimi pi [[toki Elena]] li 'tomo wan'. jan mute pi ma ni li alasa e [[nasin sewi Kolisu]].
+{{ma Elopa}}
+[[kulupu:ma|Monako]]
+[[kulupu:ma Elopa]]
+[[kulupu:lipu ni li tan lipu Panton la o lukin]]

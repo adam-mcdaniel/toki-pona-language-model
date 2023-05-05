@@ -1,0 +1,13 @@
+{{sitelen nimi}}
+{{nimi ni li pu}}
+== kon ==
+# ''nimi ijo'': wan sijelo ni: jan la, ona li jo e lukin, e kute, e nena sinpin, e uta.
+# ''nimi ijo'': wan sijelo ni: ona li ken toki insa.
+# ''nimi ante'': ijo li suli nanpa wan.
+# ''nimi ante'': ijo li toki tawa ijo anpa ona la, ijo ante li kute e ona, li pali e wile ona.
+# ''nimi pali'': o toki wawa e pali pi ijo anpa.
+== tan ==
+[[toki Lowasi]]: ''{{toki ante| / glava}}, "lawa jan / lawa soweli" <ref>[https://docs.google.com/spreadsheets/d/1t-pjAgZDyKPXcCRnEdATFQOxGbQFMjZm-8EvXiQd2Po/edit lipu "nimi ale pona" pi jan Inwin]</ref>
+== kalama ==
+{{kalama nimi}}
+== nimi nasin sin ==

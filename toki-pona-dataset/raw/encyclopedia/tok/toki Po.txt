@@ -1,0 +1,56 @@
+{{wile pali}}
+{{poki sona toki
+|nimi toki=toki Po
+|nimi mama=
+|sitelen=
+|kalama=
+|ma=[[ma Po]]
+|kulupu toki=Sonko Po
+|toki pi tenpo pini=
+|nasin sitelen=sitelen Po
+|ISO 639-1=bo
+|ISO 639-2=
+|ISO 639-3=
+|Linguist List=
+|Glottolog=
+|IETF=
+|Linguasphere=
+|sitelen ma=
+|toki anpa pi sitelen ma=
+}}
+{{nimi ijo|'''toki Po'''|, Phk}} li toki pi [[ma Po]].ona li lon [[kulupu toki Sonko Po]].
+== kalama ==
+toki Po li jo e kalama mute. ni li ona:
+kalama suli (a, i, u, e, o) li ken e kalama sewi (, , , , ) e kalama anpa (, , , , )
+== sitelen ==
+toki Po li kepeken nasin sitelen Po.[[toki Tonka]]li kepeken e ona kin.
+===sitelen===
+nasin sitelen Po li kama tan nasin sitelen Palata li jo e sitelen suli mute luka luka (30). ni li ona:
+[[File:tibetan alphabet.png|none|thumb|440x440px]]
+<p style="text-align:center;">
+kalama suli "a" lisitelen ala. kalama "i, e, o" li sitelen lon sewi sitelen suli. kalama "u" li sitelen lon anpa sitelen suli :</p>
+[[File:Tibetan vowels.png|none|thumb|440x440px]]
+sitelen Po li lon sike suno mute mute mute. sitelen en kalama li sama ala.
+===nimi===
+====sitelen insa====
+nimi pi toki Po li jo e sitelen insa. ni li sitelen ale. sitelen ni li jo e kalama suli (a, i, u, e, o).
+====sitelen kama en sitelen sewi====
+kama pi sitelen insa li ken jo e sitelen ante. sitelen ni li . jan li toki e  e.
+sewi pi sitelen insa li ken jo e sitelen ante. sitelen ni li . sitelen  li lukin ante lon sewi.
+sitelen kama en sitelen sewi li pali e ni tawa kalama pi siteleninsa :  li ante tan /kh, th, th, ph, tsh/ tawa /g, d, d, b, dz/ en  li ante tan /,, n, m/ tawa /,, n, m/.  li kalama //
+====sitelen anpa====
+anpa pi sitelen insa li ken jo e sitelen ante. sitelen ni li, , , (anpa pi ).
+ li pali e ni:  li ante tan /p, ph, ph, m/ tawa /t, th, th,/
+ li pali e ni:  li ante tan /k, t, p/tawa //  li ante tan /kh, th, ph/ tawa /h/ li ante tan /kh, th, ph/ tawa /h/.
+ li pali e ni: ona li tawa kalama /l/
+ li pali e ala.
+====sitelen pini====
+pini pi sitelen insa li ken jo e sitelen ante. sitelen ni li         . jan li toki e anu e ala. sitelen  li ante e kalama suli lon kama. "a"li tawa "". "u" li tawa "". "o" li tawa "".
+===kipisi e nimi===
+lon pini li nimi li sitelen  nimi pi sitelen ni li  Tsg (Seke).
+==sitelen Potawa toki pona==
+[[File:Tibetan_for_toki_pona.png|477x477px]]
+<nowiki>  </nowiki>sina ken ala toki e ijo lon toki pona la sina sona pona ala e ona
+               
+[[kulupu:toki]]
+[[kulupu:lipu ni li tan lipu Panton la o lukin]]

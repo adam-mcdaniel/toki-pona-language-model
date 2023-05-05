@@ -1,0 +1,179 @@
+{{nasin toki ike}}
+{{poki sona ma
+|nimi ma          = ma Wenpa
+|nimi mama        = Huelva
+|len ma           =
+|kalama musi ma   =
+|sitelen ma       = [[sitelen:Huelva in Spain.svg|220px]]
+|ma tomo lawa     =[[ma tomo Wenpa]]
+|toki lawa        =[[toki Epanja]]
+|mani             =[[mani Elopa]] ()
+|ISO 3166         = ES-H
+|toki anpa pi sitelen ma = ma Wenpa (loje) lon [[ma Epanja]]
+|ma=ma lili|mute jan la ma tomo suli=|ma suli=[[ma Epanja]]|toki ante=|nasin lawa=}}
+'''ma Wenpa''' li [[ma lili]] pi [[ma Epanja]]. ona li kipisi pi ma lili ni: [[ma Antalusija]]. [[ma tomo lawa]] ona li [[ma tomo Wenpa]]. tenpo suno nanpa 2020 la, ona li jo e jan 524&nbsp;278.<ref>https://www.ine.es/jaxiT3/Datos.htm?t=2874</ref> nanpa jan la, ona li ma lili nanpa 31 pi [[ma Epanja]], ni li ma lili pi lon ala jan pi [[ma Antalusija]].
+tan [[lawa kulupu|lawa]] ni, ma lili ni li kipisi e [[ma pi ma tomo]] 80, ni li kulupu e ma [[lawa sama]] pi [[luka wan]].
+== selo ma ==
+[[ma sewi]] mi ma lili Wenpa li [[ma Patakon]], [[ma suno]] ni li [[ma Sewija]], [[ma anpa suno]] ni li [[ma Kasi]], [[ma anpa]] li telo suli Alansika en [[ma monsi]] ni li [[ma Potuke]].
+== mani ma ==
+mani ni la, ni li sama [[ma Epanja]] ale, ni li mute e [[musi pali]] (57%), ni li kin e [[musi jan]]. [[tu pali]] li pona tawa [[ma Antalusija]] ale tan tomo pi ni li ante e jaki (tan [[kiwen lanpan]]) tan [[tomo pi jaki ala]] pi [[ma tomo Lapita]]. [[wan pali]] li [[kiwen lanpan]] lon [[ma tomo Ilakisina]] en ni li [[ma pali]] kepeken [[walo len]], ma pali ni li [[kili loje suwi]] tan [[ma tomo Lepe]], tan [[ma tomo Rosijana ten Kontato]], tan [[ma tomo Palos te la Pontela]], tan [[ma tomo Moken]]. kin la, lon [[wan pali]] li [[soweli pali]], li kin e [[soweli noka]] tan pona tan [[jan wile]].
+== tan pi nimi ma ==
+nimi ona en nimi pi [[ma lili]] pi [[ma Epanja]] li sama mute la nimi pi ma lili ni li tan [[ma tomo lawa]] ni. nimi pi ma tomo lawa ni li tan nimi majuna "Onoba". nimi majuna ni li tan nimi "Onos Ba'al" ([[tomo wawa]] pi [[sewi Pajan]]).
+== tenpo kon ==
+ma Wenpa li jo e tenpo kon meso pi telo ala pi suno mute ([[Csa]]).
+{| class="wikitable"
+! colspan="14" |tenpo kon meso p ma Wenpa (19 sewi telo) (tenpo lukin: 1984-2010, suli: 1984-2022)
+|-
+!tenpo mun (t.m.)
+!<abbr>t.m. 1</abbr>
+!<abbr>t.m. 2</abbr>
+!<abbr>t.m. 3</abbr>
+!<abbr>t.m. 4</abbr>
+!<abbr>t.m. 5</abbr>
+!<abbr>t.m. 6</abbr>
+!<abbr>t.m. 7</abbr>
+!<abbr>t.m. 8</abbr>
+!<abbr>t.m. 9</abbr>
+!<abbr>t.m. 10</abbr>
+!<abbr>t.m. 11</abbr>
+!<abbr>t.m. 12</abbr>
+!<abbr>tenpo sike</abbr>
+|-
+!kon seli selo (C)
+|24.0
+|27.6
+|31.6
+|33.0
+|38.9
+|40.7
+|43.9
+|43.4
+|42.0
+|35.6
+|28.4
+|24.6
+|'''43.9'''
+|-
+!kon seli meso (C)
+|16.2
+|17.8
+|20.7
+|22.0
+|25.2
+|29.0
+|32.7
+|32.4
+|29.4
+|24.9
+|20.0
+|16.9
+|'''23.9'''
+|-
+!kon meso (C)
+|11.0
+|12.4
+|14.7
+|16.1
+|19.2
+|22.8
+|25.8
+|25.8
+|23.4
+|19.5
+|14.9
+|12.3
+|'''18.2'''
+|-
+!kon lete meso (C)
+|5.9
+|7.0
+|8.8
+|10.3
+|13.2
+|16.6
+|18.9
+|19.1
+|17.3
+|14.1
+|9.8
+|7.6
+|'''12.4'''
+|-
+!kon lete selo (C)
+| -3.2
+| -2.2
+| -1.2
+|1.6
+|5.8
+|8.4
+|12.4
+|14.0
+|10.0
+|6.6
+|0.8
+| -2.2
+|'''-3.2'''
+|-
+!kon telo (mm)
+|71.1
+|50.3
+|37.6
+|47.5
+|29.1
+|7.8
+|2.6
+|4.1
+|25.9
+|67.9
+|78.7
+|99.4
+|'''524.7'''
+|-
+!tenpo suno pi anpa telo ( 1 mm)
+|7.1
+|5.5
+|4.3
+|6.0
+|3.8
+|1.1
+|0.2
+|0.4
+|2.4
+|6.4
+|6.3
+|7.9
+|'''51.5'''
+|-
+!suno tenpo
+|165
+|171
+|229
+|255
+|296
+|341
+|366
+|340
+|268
+|211
+|176
+|151
+|'''2969'''
+|-
+!kon telo (%)
+|77
+|74
+|68
+|65
+|62
+|57
+|51
+|55
+|61
+|69
+|73
+|78
+|'''66'''
+|-
+| colspan="14" |''tan lipu: Agencia Estatal de Meteorologa''
+|}
+<references />

@@ -1,0 +1,14 @@
+{{sitelen nimi}}
+{{nimi ni li pu}}
+== kon ==
+# ''nimi ijo'': ijo mute la, ijo ni: ijo ante ale li lon open ona. ijo ante ala li kama.
+# ''nimi ante'': ijo ni li pini.
+# ''nimi ante'': jan ala li ken ante e tenpo pini.
+# ''nimi ante'': pali li pini la, pali ni li pona. pali sin li wile ala.
+# ''nimi pali'': tenpo pini la, ijo ante li pali. o pali e ni: tenpo ni la, ijo ante li pali ala.
+# ''nimi pali'': tenpo pini la, jan li ken tawa kepeken lupa. o pali e ni: tenpo ni la, jan li ken ala tawa kepeken ona.
+== tan ==
+[[toki Kanse]] Akasija: ''{{toki ante|pini}}, "ijo pini" en [[toki Topisin]]: ''{{toki ante|pinis}}'', nimi pi pali pini  <ref>[https://docs.google.com/spreadsheets/d/1t-pjAgZDyKPXcCRnEdATFQOxGbQFMjZm-8EvXiQd2Po/edit lipu "nimi ale pona" pi jan Inwin]</ref>
+== kalama ==
+{{kalama nimi}}
+== nimi nasin sin ==

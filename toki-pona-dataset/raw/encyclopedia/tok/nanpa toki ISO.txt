@@ -1,0 +1,23 @@
+[[kulupu ISO|kulupu "ISO"]] li pali e lipu nanpa mute ni: ona li pana e nimi lili tawa toki.
+== nanpa ISO 639-1 ==
+'''nanpa ISO 639-1''' li toki e toki suli pi ma ante, e toki sin suli.
+nanpa ISO 639-1 li jo e [[sitelen Lasina]] tu. ona li toki ala e ante lili toki.
+== nanpa ISO 639-2 ==
+'''nanpa ISO 639-2''' li suli e mute toki.
+nanpa ISO 639-2 li jo e [[sitelen Lasina]] tu wan. ona li toki ala e ante lili toki.
+== nanpa ISO 639-3 ==
+'''nanpa ISO 639-3''' li suli mute e mute toki.
+nanpa ISO 639-3 mute li kama tan nanpa ISO 639-2 "alpha-3". taso, nanpa ISO 639-2 "alpha-3" li toki e toki ni taso: kulupu jan li lon e ona.
+sin la, nanpa ISO 639-3 li toki e [[toki sin]], e [[toki moli]]. toki mute li kama tan toki wan la, nanpa ISO 639-2 li toki e nimi wan. nanpa ISO 639-3 li toki e nimi mute.
+nanpa ISO 639-3 li jo e [[sitelen Lasina]] tu wan. ma wan li toki e toki wan pi ante suli mute la, nanpa ISO 639-3 li toki e ona ale.
+== ante pi nanpa ante ==
+nanpa ISO 639-1 en nanpa ISO 639-2 la, [[toki Sonko]] li toki wan (639-1: "zh", 639-2: "zho"). nanpa ISO 639-3 la, ante 16 pi toki Sonko li jo e nimi ona. sin la, toki Sonko pi tenpo pini li jo e nimi ante ona. toki Sonko pi [[ma tomo Pesin|ma tomo Pesin ()]] li "cmn". toki Sonko pi [[ma tomo Onkon|ma tomo Onkon ()]] li "yue".
+[[toki Alapi]] la, ante sama li lon: nanpa ISO 639-1 en nanpa ISO 639-2 li pana e nimi "ara" tawa toki Alapi. taso, ma ante la, toki Alapi li ante. nanpa ISO 639-3 la, ante 29 pi toki Alapi li jo e nimi ona.
+== nanpa toki ISO en toki pona ==
+tenpo pini lilli la, [[toki pona]] li kama jo e nanpa ISO 639-3 "tok".
+== nimi nasin sin ==
+tan [[lipu Wikipedia]]:
+* [https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes lipu pi nanpa ISO 639-1 ale] (toki Inli)
+* [https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes lipu pi nanpa ISO 639-2 ale] (toki Inli)
+* [https://en.wikipedia.org/wiki/List_of_ISO_639-3_codes lipu pi nanpa ISO 639-3 ale] (toki Inli)
+[[kulupu:toki]]

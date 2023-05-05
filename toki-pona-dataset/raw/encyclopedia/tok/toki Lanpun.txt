@@ -1,0 +1,35 @@
+{{poki sona toki|nimi toki=toki Lanpun|kule kulupu=toki sin|nimi mama=Laiqbun|sitelen=[[sitelen:Laiqbun flag wide.png|220px]]|kulupu toki=toki sin|kalama=[lajbun]|ma=|mama=jan Melako tan kulupu En|nasin sitelen=sitelen Lasina, sitelen Lajansun, sitelen Lajanpun|ISO 639-3=}}
+toki Lanpun li [[toki sin]] musi pi nasin sona. ona li tan jan Melako tan kulupu En. jan mute la ona li sama [[toki Towan]] li sama [[toki Losupan]], taso ona li ante. toki Lanpun li wile e ni: jan ante li kama sona e nasin sona sin, li ken toki kepeken nasin sona ni.
+ona li sama ala toki Losupan li sama ala toki Losupan tan ni:
+* toki li ken jo e kon mute. nasin pi toki Losupan en nasin pi toki Towan la, ni li ken ala.
+* nasin pi toki Lanpun la, ijo li ken lon en powe, li ken lon ala en powe ala. nasin pi toki Losupan en nasin pi toki Towan la, ni li ken ala kin.
+== nasin toki ==
+toki Lanpun li kama tan toki Towan. toki Towan la, nasin kalama nimi li ken ante e pali nimi. toki Lanpun la, sina ante e nimi tawa pali ni. o lukin:
+{| class="wikitable"
+!toki Lanpun
+!toki pona
+|-
+|she
+|x1 li mi
+|-
+|sha
+|mi
+|-
+|pei
+|x1 li pali/kama e x2
+|-
+|pai
+|jan pali
+|}
+sina ken pali e ni tawa nimi ale lon toki Lanpun. toki Lanpun la, nasin nimi li ni: [toki li] -> [toki ijo]: o lukin e toki "jan li pali e musi":
+{| class="wikitable"
+!pei
+!zhan
+!raau
+!dy
+|-
+|pali
+|jan
+|musi
+|TOKI LI PINI
+|}

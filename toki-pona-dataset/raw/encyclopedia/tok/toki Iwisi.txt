@@ -1,0 +1,53 @@
+{{poki sona toki
+|nimi toki=toki Iwisi
+|nimi mama=
+|kulupu toki=Apika Asija
+|kulupu toki ante=*[[kulupu toki Semi|Semi]]
+**Semi pi pini suno
+***Semi insa
+|kalama=iv'it
+|ma=ma Isale
+|nasin sitelen=[[sitelen Iwisi]]
+|ISO 639-1=he
+|ISO 639-2=heb
+|ISO 639-3=heb
+|Glottolog=hebr1246
+|IETF=he
+|Linguasphere=12-AAB-a
+|sitelen ma=[[sitelen:Idioma hebreo.PNG|220px]]}}
+{{nimi ijo|'''toki Iwisi'''||toki Iwisi||ipa=iv'it}}li [[toki pi jan Juta]]. toki Iwisi la, nimi ona li . tenpo mute la ona li lape. tenpo lape ona la jan li kepeken e toki ni tawa nasin sewi en toki sona taso.
+jan mute li kama li sin e toki ni li pali e [[toki Iwisi sin]].
+[[toki Iwisi sin]] en [[toki Iwisi pi tenpo pini]] li sama li jo e nasin tenpo ante.
+sina ken lukin e [[wikipedia:toki awen]] pi toki Iwisi sin.
+== toki Iwisi sin ==
+[[jan Elijeser pen jeuta]] li pana mute tawa sin pi toki Iwisi li jan lawa pi sin ona.
+jan li toki e ni: tenpo ale la jan Juta li ken toki kepeken toki Iwisi. [[jan Elijeser pen jeuta]] li kama la jan Juta li toki kin kepken toki Iwisi.
+jan ante mute li pana mute tawa sin ona. [[jan Sameno]] kin.
+jan pi sin pi toki Iwisi li wile e ni: [[jan Juta]] li toki kin kepken ona li toki taso kepeken ona.
+jan pi sin pi toki Iwisi li utala e toki ante li pali e [[utala pi toki Iwisi]].
+== nasin nimi ==
+toki Iwisi li jo e nasin pi pali nimi. nasin ni li nasin pi [[kulupu toki Semi]].
+toki Iwisi li jo e nasin pi pali e nimi pali: nasin Pinjanim (toki Iwisi la: )
+nasin Pinjanim li nasin tawa ni: (tenpo kama la o pini e ni...)
+== nimi pali ==
+toki Iwisi li jo e nimi pali 22: , , , , , , , , , , , , , , , , , , , , , 
+5 nimi pali li jo e sitelen pi nimi monsi kin:
+{| class="wikitable" border="1"
+|-
+! nimi pali !! nimi pali pi nimi monsi
+|-
+|  || 
+|-
+|  || 
+|-
+|  || 
+|-
+|  || 
+|-
+|  || 
+|}
+{{lili}}
+{{DEFAULTSORT:Iwisi}}
+[[kulupu:kulupu jan Jejuta]]
+[[kulupu:kulupu toki Semi]]
+[[kulupu:lipu ni li tan lipu Panton la o lukin]]

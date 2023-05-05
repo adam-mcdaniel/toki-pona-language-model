@@ -1,0 +1,30 @@
+{{poki sona ma|
+| nimi ma                 = ma Pakisan
+| nimi mama               =  <br> Pakistan
+| ma                      =
+| sitelen                 =
+| toki pi anpa sitelen    =
+| len ma                  = [[sitelen:Flag of Pakistan.svg|border|130px]]
+| sitelen lawa            = [[sitelen:State emblem of Pakistan.svg|60px]]
+| kalama musi ma          = '' '' (Qaum Tarnah) <br> (kalama musi ma) <br> [[sitelen:Pakistan anthem - United States Navy Band.ogg]]
+| ma tomo lawa            = [[ma tomo Isilanape]]
+| mute jan la ma tomo suli = [[ma tomo Kalasi]]
+| ma suli                 =
+| toki lawa               = [[toki Utu]], [[toki Inli]]
+| toki ante               = [[toki Pansapi]], [[toki Pato]], [[toki Sinsi]], [[toki Saleki]]
+| nasin sewi              = [[nasin sewi Isilan]] (lawa)
+| jan lawa                = [[jan Alipe Awi]]<br>[[jan Sepa Sali]]
+| nasin lawa              =
+| mani                    = mani Lupi pi ma Pakisan ()
+| tenpo                   = UTC+5
+| ISO 3166                = PK
+| sitelen ma              = [[sitelen:Pakistan (orthographic projection).svg|220px]]
+| toki anpa pi sitelen ma =
+| lipu ilo                = https://pakistan.gov.pk/
+| ma lili                 =
+}}
+'''ma Pakisan''' li [[ma]] lon [[ma Asija]]. ona li lon poka e [[ma Palata]] e [[ma Ilan]] e [[ma Akanisan]] e [[ma Sonko]].
+tenpo pini la, ma Pakisan li kipisi pi ma Palata. ma wan ni li lawa tan [[ma Juke]]. ma Palata li kama lawa e ona la, jan pi [[nasin sewi]] ante li pilin ike tan ni: ona li wile ala e lawa tan nasin sewi ante. tan ni, ma pi nasin sewi Isilan nanpa wan li kama ma Pakisan lon tenpo sike 1947. tenpo pini la, ma ni li jo [[ma Panla]] kin. taso, ma Panla li lon poka ala e ma Pakisan. taso, jan pi ma Panla li pilin ike tawa lawa pi ma Pakisan. jan pi [[ma Panla]] li jo [[nasin kulupu]] ante en kulupu lawa pi ma Pakisan li pana ala pona tawa ona. tan ni, ma Panla li utala tawa weka ma Pakisan lon tenpo sike 1971.
+{{ma Asija}}
+[[kulupu:ma Asija]]
+[[kulupu:lipu ni li tan lipu Panton la o lukin]]

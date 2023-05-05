@@ -1,0 +1,13 @@
+{{sitelen nimi}}
+{{nimi ni li sin}}
+{{nimi ni li suli}}
+== kon ==
+# ''ijo nimi'': wan ijo ni: ona li lon poka ala pi ijo ni; ma insa.
+#: ''ma tomo Kensa (Kansas) li lon meso pi ma Mewika.'' ma tomo Kensa li lon ma insa pi ma Mewika. ona li weka tan poka pi ma Mewika.
+# ''ijo ante'': (lon poka ijo ante sin) mute ala, lili ala; (ijo ante taso) pona ala, ike ala.
+#: ''sitelen ni li meso.'': sitelen ni li pona ala, li ike ala.
+#: ''soweli mi li suli meso.'': soweli mi li suli. ona li suli mute ala. ona li suli lili ala.
+== tan ==
+[[toki Elina]]: ''{{toki ante| (msos)}}, meso (ijo nimi)''
+== kalama ==
+{{kalama nimi}}

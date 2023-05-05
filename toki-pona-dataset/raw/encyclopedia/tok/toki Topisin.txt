@@ -1,0 +1,39 @@
+{{poki sona toki
+|nimi toki=toki Topisin
+|nimi mama=Tok Pisin
+|sitelen=[[sitelen:Tok Pisin cropped.jpg|250px]]
+|kalama=/tk psn/
+|ma=[[ma Papuwanjukini]]
+|kulupu toki=toki wan pi toki Inli
+|toki pi tenpo pini=
+|nasin sitelen=[[sitelen Lasina]]
+|toki luka=
+|ISO 639-2=tpi
+|ISO 639-3=tpi
+|Linguist List=
+|Glottolog=tokp1240
+|IETF=
+|Linguasphere=52-ABB-cc
+|sitelen ma=
+|toki anpa pi sitelen ma=
+}}
+{{lili ike}}
+{{nimi ijo|'''toki Topisin'''|Tok Pisin|toki Topisin}} anu '''toki Pisin''' li [[toki wan]] tan [[ma Papuwanjukini]]. ona li kama tan [[toki Inli]] tan [[toki Tosi]] tan [[toki Malasija]] tan [[kulupu toki Osonesija]] tan toki mute pi ma Papuwanjukini. taso, toki Inli li tan lawa ona. ma Papuwanjukini li jo e toki mute mute la, toki Topisin li toki lawa li toki nanpa wan lon ma ni. jan li toki tawa kulupu jan ante la, kulupu jan pi toki ante li kepeken ona.
+toki Topisin li pana e nimi mute tawa [[toki pona]]. kin la, nimi "toki" li kama tan nimi ''Tok'' lon toki Topisin.
+==nimi lon toki pona tan toki Topisin==
+*''bagarap''  {{nimi|pakala}}
+*''bilong''  {{nimi|pi}}
+*''insait''  {{nimi|insa}}
+*''kamap''  {{nimi|kama}}
+*''liklik''  {{nimi|lili}}
+*''long''  {{nimi|lon}}
+*''lukim''  {{nimi|lukin}}
+*''meri''  {{nimi|meli}}
+*''namba''  {{nimi|nanpa}}
+*''nasau''  {{nimi|nasa}}
+*''pilim''  {{nimi|pilin}}
+*''pinis''  {{nimi|pini}}
+*''pokis''  {{nimi|poki}}
+*''suwi''  {{nimi|suwi}}
+*''tasol''  {{nimi|taso}}
+*''tok''  {{nimi|toki}}

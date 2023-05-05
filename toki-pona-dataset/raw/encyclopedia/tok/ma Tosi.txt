@@ -1,0 +1,86 @@
+{{wile pali}}
+{{poki sona ma
+|nimi ma=ma Tosi
+|nimi mama=Deutschland anu Bundesrepublik Deutschland
+|ma=
+|len ma=[[sitelen:Flag of Germany.svg|border|130px]]
+|sitelen lawa=[[File:Coat of arms of Germany.svg|101x85px]]
+|kalama musi ma=''Deutschlandlied''<br>(kalama musi toki pi ma Tosi)<br>[[sitelen:German national anthem performed by the US Navy Band.ogg]]
+|ma tomo lawa=[[ma tomo Pelin]]
+|toki lawa=[[toki Tosi]]
+|toki ante=
+|nasin lawa=
+|jan lawa=[[jan Pan-Wate Sinmije]]<br>[[jan Olo Sose]]
+|mani=mani Elo (Euro)
+|tenpo=UTC+1
+|ISO 3166=DE, DEU, 276
+|sitelen ma=[[sitelen:EU-Germany.svg|220px]]
+|toki anpa pi sitelen ma=ma Tosi lon ma Elopa (laso pimeja)
+|lipu ilo=https://www.bundesregierung.de/}}
+{{nimi ijo|'''ma Tosi'''|Bundesrepublik Deutschland|toki Tosi|ma kulupu pi ma Tosi|ipa=}} li ma lon [[ma suli Elopa]]. [[telo suli]] en [[ma Tansi]] en [[ma Posuka]] en [[ma Seki]] en [[ma Esalasi]] en [[ma Suwasi]] en [[ma Kanse]] en [[ma Lusepu]] en [[ma Pesije]] en [[ma Netelan]] li lon poka. ma Tosi li ma suli lon ma Elopa. esun la, ona li ma nanpa wan lon ma Elopa.<ref>[https://www.imf.org/en/Publications/WEO/weo-database/2021/October/weo-report?c=512,914,612,171,614,311,213,911,314,193,122,912,313,419,513,316,913,124,339,638,514,218,963,616,223,516,918,748,618,624,522,622,156,626,628,228,924,233,632,636,634,238,662,960,423,935,128,611,321,243,248,469,253,642,643,939,734,644,819,172,132,646,648,915,134,652,174,328,258,656,654,336,263,268,532,944,176,534,536,429,433,178,436,136,343,158,439,916,664,826,542,967,443,917,544,941,446,666,668,672,946,137,546,674,676,548,556,678,181,867,682,684,273,868,921,948,943,686,688,518,728,836,558,138,196,278,692,694,962,142,449,564,565,283,853,288,293,566,964,182,359,453,968,922,714,862,135,716,456,722,942,718,724,576,936,961,813,726,199,733,184,524,361,362,364,732,366,144,146,463,528,923,738,578,537,742,866,369,744,186,925,869,746,926,466,112,111,298,927,846,299,582,487,474,754,698,&s=NGDPD,&sy=2021&ey=2021&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1 Report for Selected Countries and Subjects] - International Monetary Fund, tenpo sike nanpa 2021</ref>
+tenpo pini suli la jan li lon ma Tosi. tenpo pini mute la ma Tosi li ma wan ala. nimi ona li "[[ma suli pi ma Loma sewi]]" (Heiliges Rmisches Reich).
+==nimi pi toki ante==
+jan pi ma Tosi li kepeken e nimi ''Deutschland'' anu ''Deutsch''. nimi ni li kama tan nimi ''diutisc'' tan [[toki Tosi sewi majuna]]. kon pi nimi ni li "pi kulupu jan". taso, toki ante mute li jo e nimi ante mute.
+ma pi [[kulupu toki Kemani|kulupu Kemani]] la [[ma suli Loma]] li toki e {{nimi ijo|nimi '''Kemanija'''|Germania}}. nimi pi [[toki Inli]] pi toki ante mute li kama tan nimi ni.
+[[toki Kanse]] la, nimi ona li kama tan {{nimi ijo|'''Alemanija'''|Alemannia}}. tenpo pini la, kulupu Alemani li [[kulupu jan]] lili pi kulupu Kemani.
+==tenpo pini==
+tenpo pi sitelen ala la, jan li lon ma Tosi. jan li kama jo li kama sona e [[kiwen sijelo]] pi [[jan Nijante]] lon ma ni. tenpo pini suli la, kulupu jan mute pi toki e [[kulupu toki Kemani]] li lon ma Tosi pi tenpo ni. [[ma Loma]] li wile lanpan e ma ona. taso, kulupu jan Kemani li utala e ona. ma Loma li lawa e ma lili pi ma Tosi.
+===ma Pankija en ma suli Loma sewi===
+[[sitelen:Mitteleuropa zur Zeit der Staufer.svg|thumb|200px|sitelen ma pi ma mute lon ma suli Loma sewi]]
+tenpo pini la, ma suli Loma sewi li [[kulupu ma]] lon ma Elopa. ona li kama tan ma pi [[jan Kalu suli]]. [[ma suli Loma pi pini suno]] li pakala la, jan Kalu li kama [[jan lawa suli]].
+tenpo sike nanpa 814 la, jan Kalu li moli. tan ni la, ma ona li kipisi. ma pi [[open suno]] li kama [[ma suli pi ma Loma sewi]]. ma pi [[pini suno]] li kama [[ma Kanse]]. taso, ma suli Loma sewi li jo e lawa wan ala. ona li jo e ma lili ante mute. tenpo mute la, ma ni li utala. taso, ona li jo e jan lawa sewi wan.
+tenpo sike nanpa 1806 la, ma suli Loma sewi li pakala.
+==kulupu lawa==
+tenpo ni la kulupu pi jan lawa li tan [[kulupu pi nasin lawa]] tu wan: kulupu SPD en kulupu laso en kulupu FDP. jan lawa pi ma Tosi li jan Ola Sosi. ona li open e pali lawa ona lon tenpo sike nanpa 2021. ona li lon kulupu SPD.
+== ma==
+===ma lili===
+{| style="background:none;" cellspacing="2px"
+|
+{| class="sortable wikitable" style="text-align:left; font-size:85%;"
+|- style="font-size:100%; text-align:right;"
+! style="width:160px;" |[[ma lili]]!! style="width:85px;" |[[ma tomo lawa]]
+|-
+|[[ma Paten Wetenpu]]||[[ma tomo Suka]]
+|-
+|[[ma Pejen]]||[[ma tomo Munsen]]
+|-
+|[[ma Pelin]]||[[ma tomo Pelin]]
+|-
+|[[ma Pantenpu]]||[[ma tomo Potan]]
+|-
+|[[ma Pemen]]||[[ma tomo Pemen]]
+|-
+|[[ma Anpu]]||[[ma tomo Anpu]]
+|-
+|[[ma Ese]]||[[ma tomo Wisepaten]]
+|-
+|[[ma Mekenpu Wepomen]]||[[ma tomo Sewin]]
+|-
+|[[ma Saken anpa]]||[[ma tomo Anope]]
+|-
+|[[ma Nolin Wesepalen]]||[[ma tomo Kolon]]
+|-
+|[[ma Lijen Pase]]||[[ma tomo Min]]
+|-
+|[[ma Salen]]||[[ma tomo Sapike]]
+|-
+|[[ma Saken]]||[[ma tomo Tesen]]
+|-
+|[[ma Saken Anje]]||[[ma tomo Maketepu]]
+|-
+|[[ma Selewi Oten]]||[[ma tomo Kije]]
+|-
+|[[ma Tulinken]]||[[ma tomo Ijepo]]
+|}
+|}
+==mani==
+ma Tosi la, jan li kepeken {{nimi ijo|[[mani Elopa]]|Euro|toki Tosi}}. mani lili li {{nimi ijo|mani Sen|Cent}}<ref name=":0">https://www.bpb.de/nachschlagen/lexika/handwoerterbuch-politisches-system/202207/waehrung-waehrungsreformen</ref>.
+tenpo pini la, jan li kepeken {{nimi ijo|mani Temake|DM anu D-Mark anu Deutsche Mark|toki Tosi}}. mani lili li {{nimi ijo|mani Penike|Pfennig}}<ref name=":0" />.
+==jan==
+===sewi===
+mute 67% pi jan Tosi li jo e nasin sewi pi jan Jesu. mute 28% pi jan Tosi li jo ala e nasin sewi.
+=== musi===
+==tan sona==
+<references />
+{{ma Elopa}}
+[[kulupu:ma Tosi]]

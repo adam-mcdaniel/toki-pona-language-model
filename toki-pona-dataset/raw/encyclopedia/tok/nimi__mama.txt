@@ -1,0 +1,14 @@
+{{sitelen nimi}}
+{{nimi ni li pu}}
+== kon ==
+# ''nimi ijo'': jan ni: ona li pali e jan lili anu jan ni.
+#: ''mama mi li pona.''
+# ''nimi ijo'': ijo anu jan ni: ona li pali e ijo ante.
+#: ''tomo pali ni li mama pi ilo mute.''
+# ''nimi pali'': o awen e jan lili, o pali e ni tawa jan lili: ona li ken kama suli.
+#: ''jan pona li mama e jan lili mute.''
+== tan ==
+[[toki Katelo]]: {{toki ante| mama}}, "mama mije"<ref>[https://docs.google.com/spreadsheets/d/1t-pjAgZDyKPXcCRnEdATFQOxGbQFMjZm-8EvXiQd2Po/edit lipu "nimi ale pona" pi jan Inwin]</ref>
+== kalama ==
+{{kalama nimi}}
+== tan sona ==

@@ -1,0 +1,20 @@
+{{sitelen nimi}}
+{{nimi ni li pu}}
+== kon ==
+* '''sike''' li selo sitelen ni: suli palisa tan insa ona tawa selo ona li sama.
+# ''nimi ijo'': ijo pi selo sama sike.
+#: ''sike musi li awen tawa.''
+#: ''sike tawa li pali e ni: jan li ken tawa e ijo kepeken wawa lili.''
+# ''nimi ante'': selo pi ijo ni li sama sike.
+#: ''mi ale li lon ma sike laso.''
+# ''nimi ante'' (tenpo): tenpo ni: ma ale li sike e suno lon tenpo ni.
+# ''nimi pali'': o tawa lon poka ijo ante. o tawa kepeken nasin sike.
+#: ''mun li sike e suno.''
+# ''nimi pali'': o pali e sike.
+#: ''mi wile sike luka e jan pona mi.''
+#: ''jan utala li sike e tomo ike.''
+== tan ==
+[[toki Inli]]: {{toki ante|circle}}, "sike"<ref>[https://docs.google.com/spreadsheets/d/1t-pjAgZDyKPXcCRnEdATFQOxGbQFMjZm-8EvXiQd2Po/edit lipu "nimi ale pona" pi jan Inwin]</ref>
+== kalama ==
+{{kalama nimi}}
+== tan sona ==

@@ -1,0 +1,13 @@
+{{sitelen nimi}}
+{{nimi ni li pu}}
+== kon ==
+* jan li kama jo e kalama. kute en lukin li sama lon nasin ni: jan li ken lukin e suno li ken kute e kalama.
+# ''nimi ijo'': wan sijelo ni: ona li ken pilin e kalama.
+# ''nimi ante'': ijo li ken kute
+# ''nimi pali'': o pilin e kalama, o kama sona e kalama.
+# ''nimi pali (ken)'': jan li toki e pali. jan ante li pali e pali ni.
+== tan ==
+[[toki Kanse]]: ''{{toki ante|couter}}'', "kute" <ref>[https://docs.google.com/spreadsheets/d/1t-pjAgZDyKPXcCRnEdATFQOxGbQFMjZm-8EvXiQd2Po/edit lipu "nimi ale pona" pi jan Inwin]</ref>
+== kalama ==
+{{kalama nimi}}
+== nimi nasin sin ==

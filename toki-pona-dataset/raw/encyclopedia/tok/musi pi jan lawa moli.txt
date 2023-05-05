@@ -1,0 +1,55 @@
+[[sitelen:Opening chess position from black side.jpg|thumb|supa open pi musi pi jan lawa moli]]
+'''musi pi jan lawa moli''' li [[musi supa]] utala pi jan musi tu. jan tu li lawa e kulupu pi ijo musi. jan wan li jo e kulupu walo la, jan ante li jo e kulupu pimeja.
+open musi la, jan wan li jo e ijo musi luka luka luka wan. ijo musi ni li ijo lawa wan, li ijo wawa wan, li ijo tomo tu, li ijo sewi tu, li ijo soweli tu, li ijo lili luka tu wan. supa musi li jo e {{nimi|leko}} 64. jan tu li utala kepeken musi ni tawa ni: ona li wile anpa e ijo lawa pi jan ante.
+jan pi ma ale li musi e musi pi jan lawa moli. jan li toki e ni: tenpo pini mute la, ona li kama tan [[ma Palata]]. taso, musi ni li kama ante. musi pi jan lawa moli pi tenpo ni li kama lon [[ma Elopa]]. musi ante pi sama lili pi musi ni li kama lon ma ante: [[musi Sansi]] li kama lon [[ma Sonko]], [[musi Soki]] li kama lon [[ma Nijon]].
+tenpo ni la, jan li ken musi e musi pi jan lawa moli kepeken [[ilo nanpa]].
+==nasin musi==
+===supa===
+[[sitelen:Chess board blank.svg|thumb|open musi la lon pi ijo musi]]
+supa musi li jo e "nasin tawa" 8 tan sinpin tawa monsi, e "nasin poka" 8 tan poka tawa poka ante. nasin wan li jo e leko 8. supa musi li jo e leko 64. leko 32 li walo. leko 32 li pimeja.
+===ijo musi===
+jan musi li utala kepeken ijo musi (anu kiwen). jan wan li utala kepeken ijo walo. jan ante li utala kepeken ijo pimeja. open musi la jan li wile lon e ijo musi sama sitelen supa lon poka pi lipu ni. ijo wawa walo li wile lon leko walo. ijo wawa pimeja li wile lon leko pimeja.
+{| class="wikitable"
+|+ijo musi ale
+!sitelen walo
+!nimi ijo
+(nimi ante)
+!sitelen pimeja
+|- style="text-align:center;"
+|[[sitelen:Chess klt45.svg|frameless|45x45px]]
+|ijo lawa
+(jan lawa)
+(lawa mije)
+|[[sitelen:Chess kdt45.svg|frameless|50x50px]]
+|- style="text-align:center;"
+|[[sitelen:Chess qlt45.svg|frameless|45x45px]]
+|ijo wawa
+(lawa meli)
+|[[sitelen:Chess qdt45.svg|frameless|45x45px]]
+|- style="text-align:center;"
+|[[sitelen:Chess rlt45.svg|frameless|45x45px]]
+|ijo tomo
+(tomo tawa)
+|[[sitelen:Chess rdt45.svg|frameless|45x45px]]
+|- style="text-align:center;"
+|[[sitelen:Chess blt45.svg|frameless|45x45px]]
+|ijo sewi
+(lawa sewi)
+|[[sitelen:Chess bdt45.svg|frameless|45x45px]]
+|- style="text-align:center;"
+|[[sitelen:Chess nlt45.svg|frameless|45x45px]]
+|ijo soweli
+(soweli tawa)
+|[[sitelen:Chess ndt45.svg|frameless|45x45px]]
+|- style="text-align:center;"
+|[[sitelen:Chess plt45.svg|frameless|45x45px]]
+|ijo lili
+(jan utala)
+|[[sitelen:Chess pdt45.svg|frameless|45x45px]]
+|}
+==lipu ante==
+*[[musi Wesi]]
+*[https://rnd.neocities.org/tokipona/chess.html seme li musi e musi pi jan lawa moli? lipu lon toki pona, pali tan jan Lentan]
+{{DEFAULTSORT:jan lawa moli}}
+[[kulupu:musi]]
+[[kulupu:musi supa]]

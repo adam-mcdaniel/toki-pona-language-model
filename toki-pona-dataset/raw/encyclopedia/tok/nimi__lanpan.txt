@@ -1,0 +1,11 @@
+{{sitelen nimi}}
+{{nimi ni li suli}}
+{{nimi ni li sin}}
+== kon ==
+# ''nimi pali'': o kama jo e ijo tan jan ante. (ken la, jan li kama jo utala e ijo tan jan ante: jan ante li wile ala pana e ijo.)
+#: ''o lanpan e ilo pali tan jan mani!''
+== tan ==
+[[toki Elina]]: {{toki ante| lamvno}}, "o kama jo e ijo"<ref>[https://docs.google.com/spreadsheets/d/1t-pjAgZDyKPXcCRnEdATFQOxGbQFMjZm-8EvXiQd2Po/edit lipu "nimi ale pona" pi jan Inwin]</ref> <ref>[http://tokipona.org/nimi_pi_pu_ala.txt lipu pi sona nanpa "nimi pi pu ala" tan jan Sonja]</ref>
+== kalama ==
+{{kalama nimi}}
+== tan sona ==

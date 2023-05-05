@@ -1,0 +1,49 @@
+{{poki sona toki
+|nimi toki=toki Tuki
+|nimi mama=Trke
+|sitelen=
+|kalama=[tycte]
+|ma=[[ma Tuki]]<br>[[ma Elina]]<br>[[ma Ilakija]]<br>[[ma Kosowo]]<br>[[ma Maketonija lete]]<br>[[ma Kiposi]]<br>[[ma Pokasi]]
+|kulupu toki=Tuki
+|toki pi tenpo pini=
+|nasin sitelen=[[sitelen Lasina]] ([[nasin sitelen Tuki|Tuki]])<br>[[sitelen Alapi]] (tenpo pini)
+|ISO 639-1=tr
+|ISO 639-2=tur
+|ISO 639-3=tur
+|Glottolog=nucl1301
+|IETF=
+|Linguasphere=
+|sitelen ma=
+|toki anpa pi sitelen ma=
+}}
+{{nimi ijo|'''toki Tuki'''|Trke|toki Tuki}} li kama tan [[ma Tuki]].  jan mute pi ma Tuki en jan lili pi [[ma Pokasi]] en [[ma Kiposi]] en [[ma Elena]] en [[ma Maketonija]] en [[ma Lomani]] en [[ma Elopa|ma suli Elopa]] li kepeken e ona.
+==kulupu toki==
+toki Tuki li lon kulupu toki lili Oku pi [[kulupu toki Tuki]]. ni li sama [[toki Asepajan]] li sama [[toki Kakusa]]<!--Gagauz--> li sama [[toki Kasake]]<!--Qaqy--> li sama [[toki Sikimen]].
+tenpo pini la, jan mute li toki e ni: kulupu toki Tuki li lon [[kulupu toki Alete]]. taso, jan pi [[sona toki]] li pilin e ni: kulupu toki ni li lon ala.
+==toki pi toki Tuki==
+*'''toki''' = Merhaba
+*'''tenpo suno pona''' = yi gnler
+*'''tenpo pimeja pona''' = yi geceler
+*'''kama pona''' = Hogeldin
+*'''mi tawa''' en '''tawa pona''' = Hoakal
+*'''o lape pona''' = Tatl ryalar
+*'''sina pona ala pona?''' = Naslsn?
+*'''mi pona''' = Ben iyiyim
+*'''sina toki e seme?''' = Efendim? Nasl?
+*'''pona!''' = Peki!
+*'''sina pona lukin''' = ok gzelsin
+*'''mi olin e sina''' = Seni seviyorum
+*'''jan pona''' = Arkada
+*'''nimi sina li seme?''' = Adn ne?
+*'''nimi mi li _______''' = Benim adm ________
+*'''sina kama tan seme?''' = Nerelisin?
+*'''ni li pona ala pona?''' = Tamam m?
+*'''jan seme?''' = Kim?
+*'''ijo seme?''' = Ne? Hangisi?
+*'''lon seme?''' = Nerede?
+*'''tan seme?''' = Niin?/Neden?
+*'''tenpo ni li tenpo seme?''' = Saat ka?
+*'''ni li toki e seme?''' = Bu ne demek?
+{{DEFAULTSORT:Tuki}}
+[[kulupu:ma Tuki]]
+[[kulupu:toki]]

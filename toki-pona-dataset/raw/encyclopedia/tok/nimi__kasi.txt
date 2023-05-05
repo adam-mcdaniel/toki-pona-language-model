@@ -1,0 +1,13 @@
+{{sitelen nimi}}
+{{nimi ni li pu}}
+== kon ==
+* '''[[kasi]]''' li ijo ni: ona li lon ma. ona li kama jo e wawa tan suno, tan insa ma. ona li pona e kon sewi.
+# ''nimi ijo'': kasi.
+#: ''ma pi kasi ala li pona ala.''
+# ''nimi ante'': ijo li kama tan kasi, li pona tawa kasi.
+#: ''ma kasi li jo e soweli mute.'': ma ni li jo e soweli mute: ona li jo e kasi mute.
+== tan ==
+[[toki Sumi]]: {{toki ante|kasvi}}, "kasi"<ref>[https://docs.google.com/spreadsheets/d/1t-pjAgZDyKPXcCRnEdATFQOxGbQFMjZm-8EvXiQd2Po/edit lipu "nimi ale pona" pi jan Inwin]</ref>
+== kalama ==
+{{kalama nimi}}
+== tan sona ==

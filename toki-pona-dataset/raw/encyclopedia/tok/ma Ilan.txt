@@ -1,0 +1,26 @@
+{{poki sona ma
+| nimi ma                 = ma Ilan
+| nimi mama               = <br>Irn
+| ma                      =
+| len ma                  = [[sitelen:Flag_of_Iran.svg|border|130px]]
+| sitelen lawa            = [[sitelen:Emblem of Iran.svg|60px]]
+| kalama musi ma          = ''    '' <br> (kalama musi lawa pi ma lawa kulupu Ilan pi nasin sewi Isilan) <br> [[sitelen:Sorud-e Mell-e Yomhur-e Eslam-e Irn (instrumental).oga]]
+| ma tomo lawa            = [[ma tomo Telan]]
+| ma suli                 =
+| toki lawa               = [[toki Ilan]]
+| toki ante               = [[toki Asepajan]]<br>[[toki Kusi]]
+| nasin sewi              = [[nasin sewi Isilan]] (lawa)
+| nasin lawa              =
+| jan lawa                = [[jan Ali Kamene]]<br>[[jan Epawime Lejesi]]
+| mani                    = mani Lija pi ma Ilan ()
+| tenpo                   = UTC+3:30
+| ISO 3166                = IR
+| sitelen ma              = [[sitelen:Iran (orthographic projection).svg|220px]]
+| toki anpa pi sitelen ma = ma Ilan (laso) lon sike ma
+| lipu ilo                = https://iran.ir
+}}
+{{nimi ijo|'''ma Ilan'''||toki Ilan}} anu '''ma Pasi''' li [[ma]] lon [[ma Asija]]. [[ma Ilakija]] en [[ma Tuki]] en [[ma Aja]] en [[ma Asepajan]] en [[ma Sikimen]] en [[ma Akanisan]] en [[ma Pakisan]] li lon poka ona. [[telo Kapiki]] li lon poka ona. [[telo suli Pasi]] pi [[telo suli Palata]] li lon poka ante ona.
+tenpo pini mute la, ma Ilan li lon. tenpo lon poka pi tenpo sike 3000 BCE la, [[ma Elan]] li kama lon ma Ilan.  tenpo lon poka pi tenpo sike 700 BCE la, kulupu jan Mete li wan e ma Ilan. ma Ilan li wan la, ni li tenpo nanpa wan. tenpo sike 550 BCE la, [[jan lawa Kulu nanpa tu]] li open e [[ma Akemeni|ma lawa suli Akemeni]]. ni li kama e ma lawa suli suli. tenpo sike 334 BCE la, [[jan Alekanto suli]] li anpa li pakala e ma Akemeni.
+tenpo ni la kulupu lawa pi ma Ilan li jo e nasin lawa kepeken [[nasin sewi Isilan]]. ona li jo e jan lawa nanpa tu: jan lawa pi kulupu lawa en jan lawa sewi nanpa wan. lawa pi jan lawa sewi nanpa wan li open la, tenpo pi lawa ona li lon ali ona.
+{{ma Asija}}
+[[kulupu:ma Asija pi pini suno]]

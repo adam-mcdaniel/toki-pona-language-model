@@ -1,0 +1,22 @@
+{{poki sona toki|nimi toki=toki Anku|nimi mama=|kalama=[ha()n.u.]|ma=[[ma Anku]]<br>
+[[ma Soson]]<br>
+|kulupu toki=Anku|toki pi tenpo pini=toki Anku pi tenpo pini
+*toki Anku pi tenpo insa
+**toki Anku open
+|nasin sitelen=[[sitelen Anku]]
+|ISO 639-1=ko
+|ISO 639-2=kor
+|ISO 639-3=kor
+|Glottolog=kore1280
+|Linguasphere=45-AAA-a
+|sitelen ma=[[sitelen:Map of Korean language.png|220px]]|toki anpa pi sitelen ma={{kule pi sitelen ma|kule=#e60011|kule selo=black|toki=ma pi toki Anku mute}}
+{{kule pi sitelen ma|kule=#eb6000|kule selo=black|toki=ma pi toki Anku lili}}
+{{kule pi sitelen ma|kule=#21ab38|kule selo=black|toki=jan lili mute pi toki Anku lon}}
+|kule kulupu=Anku}}
+{{lili ike}}
+{{nimi ijo|'''toki Anku'''||toki Anku|ipa=ha()n.u.}} li toki. [[ma Anku]] en [[ma Soson]] li kepeken toki ni. jan Anku pi ma Sonko li toki kin e ni. tenpo pini la jan Anku li sitelen e toki Anku kepeken [[sitelen Kansi]], taso tenpo ni la jan mute Anku li sitelen e toki Anku kepeken [[sitelen Anku]].
+==ijo ante==
+jan Anku li kepeken toki ante tan ni: jan kute li sewi anu anpa tawa ona. o lukin la jan li kepeken toki pona mute tawa jan pi pana sona, tawa/en mama ona. taso jan li kepeken toki pona lili tawa jan lili. sina kepeken toki pona lili tawa jan pi pana sona la ona en jan ante li pilin nasa. ike la jan pi pana sona sina li utala tawa sina.
+toki pona mute: -(''yo''), -(''imnida''), -?(''imnikka?''), -(''ieyo''); toki pona lili: -(''ya''), -?(''ni?''), -?(''nya?'')
+(''jong-i'') li lipu lon toki Anku. o lukin la '' li toki e ni: jan suli o, ni li lipu. taso '' li toki e ni: jan pona o, ni li lipu.
+[[kulupu:lipu ni li lon lipu Panton kin la o lukin]]

@@ -1,0 +1,40 @@
+{{poki sona ma|
+| nimi ma                 = ma Isale
+| nimi mama               =  <br> 
+| ma                      =
+| len ma                  = [[sitelen:Flag of Israel.svg|border|130px]]
+| sitelen lawa            = [[sitelen:Emblem of Israel.svg|101px]]
+| kalama musi ma          =  <br> (wile) <br> [[sitelen:Hatikvah instrumental.ogg]]
+| ma tomo lawa            = [[ma tomo Jelusalawin]] (toki ken lili)
+| toki lawa               = [[toki Iwisi]]
+| toki ante               = [[toki Alapi]]
+| nasin sewi              =
+| nasin lawa              =
+| mani                    = [[mani Seke sin]] () (ILS)
+| tenpo                   = UTC+2
+| ISO 3166                =
+| sitelen ma              = [[sitelen:ISR orthographic.svg|220px]]
+| toki anpa pi sitelen ma =
+| lipu ilo                = https://www.gov.il/
+}}
+{{nimi ijo|'''ma Isale'''|, Ysrl|toki Iwisi}} li ma lon [[ma Asija pi pini suno]]. ona li lon poka pi [[ma Lunpan]] pi [[ma Utun]] pi [[ma Sulija]] pi [[ma Masu]] pi [[ma Pilisin]]. ma tomo lawa ona li [[ma tomo Jelusalawin]]. taso lawa pi ma mute li pilin sama ni: ma Isale li lawa ala e ma tomo Jelusalawin. [[toki lawa]] pi ma Isale li toki Iwisi. tenpo pini la, toki Alapi li toki lawa kin, taso ona li weka lon tenpo sike 2018.<ref>[https://www.nytimes.com/2018/07/18/world/middleeast/israel-passes-national-home-law.html "Israel Passes 'National Home' Law, Drawing Ire of Arabs"] - ''New York Times''</ref>
+ma Isale la, kulupu suli tu li lon. ni li kulupu jan Isale (anu [[kulupu jan Jejuta]]) li kulupu jan Pilisin (anu [[kulupu jan Alapi]]). kulupu jan Pilisin li kepeken [[toki Alapi]]. ona mute li lon [[nasin sewi Isilan]]. kulupu jan Isale li kepeken [[toki Iwisi]]. ona mute li lon[[nasin sewi Juta]]. ma Isale pi tenpo ni li kama lon tenpo sike 1948 tan ni: jan li wile e ma mama pi [[kulupu jan Jejuta]]. pini tawa ni la, ma ni li jo e nimi Pilisin li jo e kulupu jan Alapi lon ona. kulupu ni tu li wile e ma ni la, utala li kama. tenpo ni la, ma ni li kipisi. jan Pilisin li lawa e [[ma palisa Kasa]] e [[ma pi poka telo pi pini suno]]. ni li ma lawa Pilisin pi tenpo ni.
+==nimi==
+{{nimi ijo|nimi Isale|}} li tan [[toki Iwisi]]. [[lipu pi kama lon]] la, nimi Isale li tan {{nimi ijo|''lawa''||ipa=yisr}} li tan {{nimi ijo|''sewi''||ipa=l}}.
+==tenpo pini==
+[[kulupu jan Jejuta]] li kama tan [[ma Kanan]]. [[ma Kanan]] li lon [[ma Asija pi pini suno]] li lon poka [[telo suli Mesitelane]]. kulupu jan ante li tan [[ma Kanan]] li [[kulupu jan Poniki]].
+{{nimi ijo|[[lipu pi tawa weka]]|}} la, [[jan Mose]] li lawa e kulupu jan Isale lon [[ma Masu]].
+[[lipu Pipija]] la, [[jan Salu]] li jan lawa nanpa wan pi ma wan Isale. jan Salu li moli la, [[jan Tawi]] li kama lawa. jan Tawi li lanpan e [[ma tomo Jelusalawin]]. ma tomo Jelusalawin li kama ma tomo lawa. jan Solomon li kama jan lawa. jan Solomon li pali e tomo sewi nanpa wan lon ma tomo Jelusalawin. jan Solomon li moli la, kulupu jan pi [[poka open pi open suno]] li weka. nimi pi ma lawa lon poka open pi open suno li ''ma Isale'' anu ''ma Samelin''. tenpo sin la, [[kulupu jan Samelin]] li kama tan ma Samelin. kulupu jan pi [[poka pini pi open suno]] li kama ''ma Jejuta''.
+tenpo sike 750 BCE la, [[kulupu jan Asulu]] li pakala li lanpan e poka open pi open suno. jan mute li weka e poka open pi open suno li tawa ma Jejuta lon poka pini pi open suno. tenpo sike 587 BCE la, jan pi [[ma tomo Papili|ma Papili]] li lanpan e ma Jejuta li tawa e jan mute pi kulupu Jejuta tawa ma tomo Papili.
+[[ma Loma]] li weka e jan mute pi kulupu Jejuta tan ma ona li moli e ona. ni li kama e ni: jan pi kulupu Jejuta li lon ma mute ante lon [[ma Elopa]] lon [[ma Asija]] lon [[ma Apika]].
+===nasin Sijon en ma Isale===
+[[nasin Sijon]] la jan Jejuta li tawa ma Pilisin. [[utala suli nanpa wan]] la [[ma Juke]] li kama lawa e ona lon tenpo sike 1920. [[utala suli nanpa tu]] en [[moli suli Sowa]] la jan mute pi kulupu Jejuta li tawa ma Pilisin.
+tenpo sike 1947 la, [[ma mute wan]] li toki e ni: ma Pilisin o kipisi.
+tenpo sike 1948 la, ma Isale li toki e [[toki pi lawa sin|lawa sin]]. [[jan Pen Kulijon]] li [[jan lawa|jan nanpa wan pi lawa ma]] pi ma Isale. [[ma Masu]] en [[ma Sulija]] en [[ma Utun]] en [[ma Ilakija]] li open utala e ma Isale. utala ni la, jan 700,000 pi ma Pilisin li weka tan tomo ona. tenpo ni la, jan ni li ken ala kama lon tomo ona.
+tenpo mute la ma Isale li utala e ma lon poka Isale. tenpo sike 1979, ma Masu en ma Isale li toki e toki pi [[utala ala]] li [[pini utala]]. tenpo sike 1994 la, ma Utun en ma Isale li toki kin.
+==tan suno==
+<references/>
+{{kipisi:ma Asija}}
+[[kulupu:ma Asija pi pini suno]]
+[[kulupu:ma Isale]]
+[[kulupu:lipu ni li tan lipu Panton la o lukin]]

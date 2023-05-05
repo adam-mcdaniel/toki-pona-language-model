@@ -1,0 +1,17 @@
+{{sitelen nimi}}
+{{nimi ni li pu}}
+== kon ==
+* jan anu ijo sijelo li '''moli''' la, ona li ken ala pilin, li ken ala toki, li ken ala tawa, li ken pali e ala.
+# ''nimi ijo'': pali ni: ijo li moli.
+#: ''moli li ike. taso, moli li kama tawa jan ale.'' jan li moli la, ni li ike. taso, jan ale li moli lon tenpo kama suli.
+# ''nimi ante'': ijo ni li moli. ijo ni li pona tawa moli.
+#: ''jan moli li toki e ala.'' jan li moli la, ona li toki e ala.
+#: ''o weka e ilo moli sina!'' o weka e ilo ni: ona li ken moli e jan!
+# ''nimi pali'': o pali e ni: ijo li moli. o pali e ni: ijo ante li moli.
+#: ''soweli suli li moli.'' tenpo pini la, soweli suli li moli ala. tenpo ni anu tenpo kama la, soweli suli li moli.
+#: ''jan utala li moli e jan pona mi.'' jan utala li pali e ni: jan pona mi li moli.
+== tan ==
+[[toki Kanse]] Akasija: {{toki ante|mourir}}, "o moli"<ref>[https://docs.google.com/spreadsheets/d/1t-pjAgZDyKPXcCRnEdATFQOxGbQFMjZm-8EvXiQd2Po/edit lipu "nimi ale pona" pi jan Inwin]</ref>
+== kalama ==
+{{kalama nimi}}
+== tan sona ==

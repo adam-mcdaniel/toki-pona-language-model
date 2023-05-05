@@ -1,0 +1,49 @@
+{{poki sona ma|
+| nimi ma                 = ma Pelalusi
+| nimi mama               = <br>Belarus
+| ma                      =
+| len ma                  = [[sitelen:Flag of Belarus.png|120px]]
+| sitelen lawa            = [[sitelen:Coat of arms of Belarus (2020present).svg|80px]]
+| kalama musi ma          =    <br>''Dziarany Himn Respubliki Biearu''<br>(kalama musi lawa pi ma lawa Pelalusi)<br>[[sitelen:My Belarusy vocal.ogg]]
+| ma tomo lawa            = [[ma tomo Minke]]
+| ma suli                 =
+| toki lawa               = [[toki Pelalusi]]<br>[[toki Lusi]]
+| toki ante               = [[toki Itesitosi]]<br>[[toki Posuka]]<br>[[toki Ukawina]]
+| nasin lawa              =
+| jan lawa                = [[jan Alisante Lukasenko]] <small>(toki utala)</small>
+| tenpo open              =
+| mani                    = [[mani Lupe pi ma Pelalusi]]
+| tenpo                   = UTC+3
+| ISO 3166                = BE
+| sitelen ma              = [[sitelen:Europe-Belarus.svg|250px]]
+| toki anpa pi sitelen ma = ma Pelalusi (laso) lon ma Elopa
+| lipu ilo                =
+}}
+'''ma Pelalusi''' li lon [[ma Elopa pi open suno]]. nimi ona li  kepeken [[toki Pelalusi]].
+== ma tomo ==
+{{wile pali}}
+* [[ma tomo Minsk|ma tomo Minku]] (i) - ma tomo lawa.
+ma tomo:
+ma tomo Palisu ()
+ma tomo Poluiku ()
+ma tomo Komelu () - 550.000 jan
+ma tomo:
+ma tomo Lesisa ()
+ma tomo Puta-Kasilewa (-)
+ma tomo Koiniki (ii)
+ma tomo Tolus ()
+ma tomo Plest ()
+ma tomo:
+ma tomo Kulono ()
+ma tomo:
+ma tomo Makilewu (i)
+ma tomo:
+ma tomo Pusowu ()
+ma tomo Selikowu ()
+ma tomo Witepuku (i)
+ma tomo:
+{{lili}}
+{{ma Elopa}}
+{{DEFAULTSORT:Pelalusi}}
+[[kulupu:ma Elopa]]
+[[kulupu:lipu ni li tan lipu Panton la o lukin]]

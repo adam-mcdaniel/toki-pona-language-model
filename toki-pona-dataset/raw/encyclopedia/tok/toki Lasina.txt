@@ -1,0 +1,258 @@
+{{poki sona toki
+|nimi toki=toki Lasina
+|nimi mama=lingua latna
+|sitelen=[[sitelen:Rome Colosseum inscription 2.jpg|200px]]
+|toki pi anpa sitelen=sittelen pi toki Lasina lon [[tomo Kolosejo]] pi [[ma tomo Loma]]
+|kulupu toki=Palata Elopa
+|kulupu toki ante=*[[kulupu toki Italija|Italija]]
+|kalama=[latina]
+|ma=[[ma Loma]]<br>[[ma Wasikano]]
+|nasin sitelen=[[sitelen Lasina]]
+|ISO 639-1=la
+|ISO 639-2=lat
+|ISO 639-3=lat}}
+{{nimi ijo|'''toki Lasina'''|lingua latna|toki Lasina}} li [[toki]] pi [[ma Lasina]] lon tenpo pini li toki pi [[ma Loma pi tenpo pini|ma Loma lon tenpo pini]]. taso ma suli Loma pi pini suno li pakala la, toki Lasina li awen. toki Lasina pi jan mute li ante lon ma ante li kama e toki pi [[kulupu toki Loman|kulupu Loman]]. taso tenpo mute la, jan pi [[ma Elopa]] li kepeken awen e toki ni lon [[nasin lawa|lawa]] lon [[nasin sewi|sewi]] lon [[nasin sona|sona]].
+jan suli pi [[toki musi|sitelen musi]] lon toki ni li {{nimi ijo|[[jan Wekilusu]]|Vergilius}} li {{nimi ijo|[[jan Olasiju]]|Horatius}} li {{nimi ijo|[[jan Takitu]]|Tacitus}}.
+==tenpo pini==
+toki Lasina li kama lon ma Lasina lon [[ma Italija]] pi tenpo pini. ma ni la, [[ma tomo Loma]] li kama. ma tomo Loma li [[ma lawa suli|kama lawa e ma mute]]. ma suli ni li awen lon tenpo mute, jan mute pi ma tomo Loma li pana e toki Lasina tawa jan pi ma ante mute. toki ni li kama tan toki Lasina:
+*[[toki Kanse]]
+*[[toki Epanja]]
+*[[toki Italija]]
+*[[toki Potuke]]
+*[[toki Lominija]]
+*toki mute ante
+===tenpo ni===
+tenpo ni la, toki Lasina li [[toki mama]] pi jan ala. taso jan sona li kepeken toki Lasina tan ni: ona li pana e nimi tawa soweli mute. jan pi [[kulupu sewi Katolika]] li toki kepeken toki Lasina li lukin e lipu pi tenpo ante mute pi toki Lasina. tan ni la, ona li [[toki lawa]] lon [[ma Wasikano]].
+== sitelen==
+sitelen pi toki Lasina li lon anpa. toki Lasina li kepeken [[sitelen Lasina]].
+=== kalama pini===
+{| class="wikitable IPA" style="text-align: center;"
+|-
+! colspan="2" rowspan="2" |
+! rowspan="2" |sinpin
+! rowspan="2" | sinpin lili
+! rowspan="2" |insa
+! colspan="2" |monsi
+! rowspan="2" |lupa uta
+|-
+!uta ala
+!uta
+|-
+! rowspan="3" |kon pini
+!<small>wawa uta</small>
+|b
+|d
+|(d)
+|
+|
+|
+|-
+!<small>wawa uta ala</small>
+|p
+|t
+|(t)
+|k
+|k
+|
+|-
+!<small>poka kon</small>
+|(p<sup>h</sup>)
+|(t<sup>h</sup>)
+|
+|(k<sup>h</sup>)
+|(k<sup>wh</sup>)
+|
+|-
+! rowspan="2" |kon pini lili
+!<small>wawa uta</small>
+|v
+| (z)
+|
+|
+|
+|
+|-
+!<small>wawa uta ala</small>
+|f
+| s
+|
+|
+|
+|(h)
+|-
+! colspan="2" |kon nena
+|m
+|n
+|
+|()
+|
+|
+|-
+! colspan="2" |kon telo lili
+|
+|r
+|
+|
+|
+|
+|-
+! colspan="2" |kon telo
+|
+|l
+|(j)
+|
+|(w)
+|
+|}
+* p<sup>h</sup>, t<sup>h</sup>, k<sup>h</sup>, z, y(:) li kama tan nimi pi [[toki Elina|toki Elena]]
+* k<sup>wh</sup> li ken kepeken lon /k<sup>h</sup>uV/
+* w en j li ante kalama tan i, tan u
+* t en d li kepeken taso lon toki sewi Lasina
+===kalama open===
+{| class="wikitable" style="text-align: center;"
+|-
+! !! colspan="4" |sinpin!! colspan="2" |monsi
+|-
+!pini
+|
+|i:
+|(y)
+|(y:)||
+|u:
+|-
+!insa
+| colspan="2" |
+| colspan="2" |e
+|
+|o:
+|-
+!open
+| colspan="4" | a
+| colspan="2" |a
+|}
+== sitelen pi toki Lasina ==
+{| class="wikitable"
+!sitelen lipu
+!a
+!
+!
+!
+!b
+! colspan="2" |c
+!ch
+!d
+!e
+!
+!f
+! colspan="2" |g
+!gu
+!h
+!i
+!
+!k
+!l
+!m
+!n
+!o
+!
+!
+!
+!p
+!ph
+!qu
+!r
+!s
+!t
+!th
+!u
+!
+!v
+!x
+!y
+!
+!z
+|-
+!sitelen kiwen
+| colspan="2" |A
+| colspan="2" |
+|B
+| colspan="2" |C
+|CH
+|D
+| colspan="2" |E
+|F
+| colspan="2" |G
+|GV
+|H
+| colspan="2" |I
+|K
+|L
+|M
+|N
+| colspan="2" |O
+| colspan="2" |
+|P
+|PH
+|QV
+|R
+|S
+|T
+|TH
+| colspan="3" |V
+|X
+| colspan="2" |Y
+|Z
+|-
+!kalama
+|a
+|a:
+|ae~
+|a:e~e:
+|b
+|k
+|(t)
+|k<sup>h</sup>
+|d
+|
+|e
+|f
+|g
+|(d)
+|g<sup>w</sup>
+| -
+|
+|i:
+|k
+|l
+|m
+|n
+|
+|o:
+|oe~
+|o:e~e:
+|p
+|p<sup>h</sup>
+|k
+|r
+|s
+|t
+|t<sup>h</sup>
+|
+|u:
+|v
+|ks
+|y
+|y:
+|z
+|}
+== nimi selo pi nimi ijo ==
+== toki pi toki Lasina ==
+* '''toki!''': Salve!
+* '''suno pona!''': Diem bonam(/bonum)!
+* '''lape pona!''': Noctem bonam!
+* '''mi tawa!''' en '''tawa pona!''': Vale!
+* '''o kute!''': audi!
+* '''wan, tu, tu wan''': unus, duo, tres
+{{DEFAULTSORT:Lasina}}
+[[kulupu:ma Loma pi tenpo pini]]
+[[kulupu:toki moli]]

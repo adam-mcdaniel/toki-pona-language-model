@@ -1,0 +1,17 @@
+{{sitelen nimi}}
+{{nimi ni li pu}}
+== kon ==
+# ''nimi ijo'': kon ni: lawa jan li awen e ona. jan li lukin e ijo, li pilin e ijo, li pali e ijo la, jan li kama jo e '''sona''' tan ni. jan li ken pona e pali ona kepeken sona.
+#: ''sona pi pona sijelo li pona.''
+# ''nimi ante'': ijo ni li kama tan sona. ijo ni li pona tawa sona. ijo ni li jo e sona.
+#: ''ilo sona li pali pona.''
+#: ''nasin sona ale li pona.''
+# ''nimi pali'': o jo e sona.
+#: ''jan suli li sona e ijo mute.'' jan suli li jo e sona pi ijo mute.
+# ''nimi open pi nimi pali'': o jo e sona ni: jan li pali e pali ni kepeken nasin seme?
+#: ''jan wawa li sona pali e tomo.'' jan wawa li sona e ni: jan li ken pali e tomo kepeken nasin seme?
+== tan ==
+[[toki Katelo]]: {{toki ante| / codna}}, "sona"<ref>[https://docs.google.com/spreadsheets/d/1t-pjAgZDyKPXcCRnEdATFQOxGbQFMjZm-8EvXiQd2Po/edit lipu "nimi ale pona" pi jan Inwin]</ref>
+== kalama ==
+{{kalama nimi}}
+== tan sona ==

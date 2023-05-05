@@ -1,0 +1,387 @@
+{{poki sona toki|nimi toki=toki Lusi|nimi mama=  ('russkij ja'zyk)|kalama=ruskj jzk|ma=[[ma Lusi]]<br>
+[[ma Pelalusi]]<br>
+ma ante mute
+|kulupu toki=Palata Elopa
+|kulupu toki ante=*[[kulupu toki Palito-Lowan|Palito Lowan]]
+**[[kulupu toki Lowan|Lowan]]
+***[[kulupu toki Lowan pi open suno|Lowan pi open suno]]
+|toki pi tenpo pini=toki Lowan nanpa wan
+*toki Lowan pi open suno nanpa wan
+|nasin sitelen=[[nasin sitelen Kililisa]]
+|ISO 639-1=ru
+|ISO 639-2=rus
+|ISO 639-3=rus
+|Glottolog=russ1263
+|Linguasphere=53-AAA-ea
+|sitelen ma=[[sitelen:Idioma_ruso.PNG|220px]]
+|toki anpa pi sitelen ma={{kule pi sitelen ma|kule=#0080FF|kule selo=black|toki=ma pi toki Lusi mute}}
+{{kule pi sitelen ma|kule=#88C4FF|kule selo=black|toki=ma pi toki Lusi lili}}
+}}
+{{wile pali}}
+{{nimi ijo|'''toki Lusi'''| |toki Lusi|ipa=ruskj jzk|weka=o}} li toki suli pi ma mute. nanpa wan la, ona li suli lon [[ma Lusi]]. ma ante mute pi [[ma Sesesele]] lon tenpo pini li kepeken ona.
+==nasin sitelen==
+jan li sitelen e toki Losi kepeken [[nasin sitelen Kililisa]]. toki Losi en toki sama mute li kepeken e nasin sitelen ni.
+== kalama ==
+{| class="wikitable"
+|+kalama suli
+!
+! colspan="2" |selo tu
+! colspan="2" |nena uta
+!uta sewi
+!monsi nena
+! colspan="2" |sewi ko
+|-
+!monsi kule
+!ala
+!poka
+!ala
+!poka
+!ala
+!poka
+!ala
+!poka
+|-
+! rowspan="2" |pini
+|p
+|p<sup>j</sup>
+|t
+|t<sup>j</sup>
+| colspan="2" rowspan="2" |
+|k
+|k<sup>j</sup>
+|-
+|b*
+|b<sup>j*</sup>
+|d*
+|d<sup>j*</sup>
+|g*
+|g<sup>j*</sup>
+|-
+! rowspan="2" |kon tawa
+|f
+|f<sup>j</sup>
+|s
+|s<sup>j</sup>
+|
+|:~t
+|x
+|x<sup>j</sup>~
+|-
+|v
+|v<sup>j*</sup>
+|z
+|z<sup>j*</sup>
+|*
+|(z~:)
+|()
+|(<sup>j</sup>)
+|-
+!kon tawa pini
+| colspan="2" |
+|ts
+|
+|
+|t
+| colspan="2" rowspan="3" |
+|-
+!nena
+|m
+|m<sup>j</sup>
+|n
+|n<sup>j</sup>~
+| colspan="2" |
+|-
+!kon poka
+|(w)
+|
+|l
+|l<sup>j</sup>
+| rowspan="2" |(r)
+|j
+|-
+!sijelo tawa
+| colspan="2" |
+|r
+|r<sup>j</sup>
+| colspan="3" |
+|}
+{{nasin toki ike|nimi Pi o lon ala, ken la nimi La o lon}}
+* ts en  en  li ken monsi kule ala, kin lon tenpo pi ni li kama monsi monsi kule sitelen
+* t en :~t en j li wile monsi kule, kin lon tenpo pi ni li kama monsi monsi kule ala sitelen
+* mute kalama suli li suli lon pini nimi (b > p, d > t, g > k, v > f, z > s,  > z)
+{| class="wikitable"
+|+kalama lili
+!
+!sinpin
+! colspan="2" |meso
+!monsi
+|-
+!sewi
+|i
+| rowspan="2" |()
+| rowspan="2" |()
+|u
+|-
+!insa-sewi
+|()
+|()
+|-
+!insa
+|e
+| rowspan="2" |()
+| rowspan="2" |()
+| rowspan="2" |o
+|-
+!insa-anpa
+|()
+|-
+!anpa
+|()
+| colspan="3" |a
+|}
+kalama lili li pipi lon wawa ala lon:
+{| class="wikitable"
+! rowspan="2" |
+! colspan="2" |wawa
+! colspan="2" |pipi
+|-
+!C-
+!-
+!-C
+!-C<sup>j</sup>
+|-
+!a
+| colspan="2" |a
+| rowspan="2" |
+|a
+|-
+!o
+| colspan="2" |o
+|
+|-
+!e
+| colspan="2" |e
+| colspan="2" |
+|-
+!i
+| colspan="4" |
+|-
+!u
+| colspan="2" |u
+| colspan="2" |
+|-
+!ja
+|<sup>j</sup>a
+|ja
+|
+| rowspan="4" |
+|-
+!jo
+|<sup>j</sup>o
+|jo
+|
+|-
+!ji
+|<sup>j</sup>i
+|i
+|
+|-
+!je
+|<sup>j</sup>e
+|je
+|
+|-
+!ju
+|<sup>j</sup>u
+|ju
+|
+|
+|}
+== sitelen pi toki Losi ==
+{| class="wikitable"
+!
+!
+!<small>monsi kule sitelen</small>
+!<small>monsi kule ala sitelen</small>
+|-
+!
+|a
+| colspan="2" |a
+|-
+!
+|b
+|b
+|b<sup>j</sup>
+|-
+!
+|v
+|v
+|v<sup>j</sup>
+|-
+!
+|g
+|g
+|g<sup>j</sup>
+|-
+!
+|d
+|d
+|d<sup>j</sup>
+|-
+!
+|ye/e
+| colspan="2" |je
+|-
+!
+|yo
+| colspan="2" |jo
+|-
+!
+|zh
+| colspan="2" |
+|-
+!
+|z
+|z
+|z<sup>j</sup>
+|-
+!
+|i/yi
+| colspan="2" |i
+|-
+!
+|y
+| colspan="2" |j
+|-
+!
+|k
+|k
+|k<sup>j</sup>
+|-
+!
+|l
+|l
+|l<sup>j</sup>
+|-
+!
+|m
+|m
+|m<sup>j</sup>
+|-
+!
+|n
+|n
+|n<sup>j</sup>
+|-
+!
+|o
+| colspan="2" |o
+|-
+!
+|p
+|p
+|p<sup>j</sup>
+|-
+!
+|r
+|r
+|r<sup>j</sup>
+|-
+!
+|s
+|s
+|s<sup>j</sup>
+|-
+!
+|t
+|t
+|t<sup>j</sup>
+|-
+!
+|u
+| colspan="2" |u
+|-
+!
+|f
+|f
+|f<sup>j</sup>
+|-
+!
+|h
+|x
+|x<sup>j</sup>
+|-
+!
+|c
+| colspan="2" |ts
+|-
+!
+|ch
+| colspan="2" |t
+|-
+!
+|sh
+| colspan="2" |
+|-
+!
+|sch
+| colspan="2" |t
+|-
+!
+|"
+| colspan="2" |*ni li ante e sitelen tawa ni li monsi
+kule ala lon tenpo pi ni li monsi kule*
+|-
+!
+|y
+| colspan="2" |i
+|-
+!
+|'
+| colspan="2" |<sup>j</sup>
+|-
+!
+|e
+| colspan="2" |e
+|-
+!
+|yu
+| colspan="2" |ju
+|-
+!
+|ya
+| colspan="2" |ja
+|}
+nimi selo
+==toki Losi en [[toki pona]]==
+===nimi mute pi [[toki pona]] li sama nimi pi toki Losi.===
+* luka ( [ ru'ka ])
+* noka ( [ no'ga ])
+* oko ( ['oko] - nimi pi kepeken lili, jan li kepeken suli e nimi '' [glaz])
+* ona ( [on'a] - ona meli)
+* lawa ( [gl'va])
+* len ( [ljon] - toki Inli la nimi ni li 'linen')
+* linja ( ['linija])
+* mi ( [m] - mi mute)
+* moku (a [mu'ka] - ko pan. toki Inli la ni li 'flour')
+* palisa ( ['palets] - palisa luka)
+* poka ( [bok])
+* sijelo ( ['t<sup>j</sup>el])
+* tomo ( [dom])
+* uta ( [us'ta] - nimi pi kepeken lili, jan li kepeken suli e nimi '' [rot])
+* mama ( ['mama] - mama meli)
+* kulupu ( ['gruppa])
+nimi ni li sama tan ni: [[jan Sonja]] li pali e nimi pi toki pona kepeken [[toki Lowasi]]. toki Lowasi li ante lili pi toki Losi.
+===jan pi toki pona li kepeken e toki Losi.===
+sina sona e toki Losi la o lukin e [http://www.livejournal.com/community/ru_tp%7C lipu LiveJournal ni].
+jan pi toki Losi li kepeken e toki pona lon lipu ni.
+==toki pi toki Losi==
+*'''toki!''': &#1087;&#1088;&#1080;&#1074;&#1077;&#1090;!, [pri'vet]
+*'''mi tawa''' en '''tawa pona''': &#1087;&#1086;&#1082;&#1072;, [po'ka]
+*'''mi wile e ___''': &#1103; &#1093;&#1086;&#1095;&#1091; ___, [ja xo'tu]
+*'''mute seme?''': &#1089;&#1082;&#1086;&#1083;&#1100;&#1082;&#1086;?, ['skolko]
+*'''mi pakala''': &#1095;&#1105;&#1088;&#1090;!, [tort]!
+*'''mi sona ala''': &#1103; &#1085;&#1077; &#1079;&#1085;&#1072;&#1102;, [ja ne 'znaju]
+*'''tomo telo li lon seme?''': &#1075;&#1076;&#1077; &#1079;&#1076;&#1077;&#1089;&#1100; &#1074;&#1072;&#1085;&#1085;&#1072;&#1103;? [gde zdes 'van:aja]
+*'''sina sona ala sona e toki pona?''': &#1090;&#1099; &#1079;&#1085;&#1072;&#1077;&#1096;&#1100; &#1090;&#1086;&#1082;&#1080;&#1087;&#1086;&#1085;&#1091;?, [t 'znaje toki'ponu]
+[[kulupu:lipu ni li lon lipu Panton kin la o lukin]]

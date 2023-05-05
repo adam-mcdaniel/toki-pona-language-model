@@ -1,0 +1,298 @@
+{{poki sona toki|nimi toki=toki Posuka|nimi mama=polski|kalama=/plski/|ma=[[ma Posuka]]<br>
+[[ma Lijatuwa]]<br>
+[[ma Pelalusi]]<br>
+[[ma Ukawina]]
+|kulupu toki=Palata Elopa
+|toki pi tenpo pini=toki Posuka pi tenpo pini
+*toki Inli pi tenpo insa
+|nasin sitelen=[[sitelen Lasina]]
+|ISO 639-1=pl
+|ISO 639-2=pol
+|ISO 639-3=pol
+|Glottolog=poli1260
+|Linguasphere=52-AAA-cc
+|sitelen ma=
+|toki anpa pi sitelen ma=
+|kulupu toki ante=* [[kulupu toki Palito-Lowan|Palito-Lowan]]
+** [[kulupu toki Lowan|Lowan]]
+*** [[kulupu toki Lowan pi pini suno|Lowan pi pini suno]]
+**** [[kulupu toki Leke|Leke]]
+***** '''Posuka'''}}
+{{nimi ijo|'''toki Posuka'''|polski|toki Posuka||ipa=}} kama tan [[ma Posuka]].
+== tan pi toki Posuka ==
+[[sitelen:Book of Henrykw.PNG|alt=sitelen li sitelen e lipu pi ma tomo Kenliku. nimi pi toki Posuka li loje.|thumb|350x350px|''lipu pi ma tomo Kenliku'' (toki Posuka la ''Ksiga Henrykowska'') li jo e linja nimi nanpa wan pi toki Posuka. sitelen ni la, ona li loje. open la, toki Lasina li toki e ni: "Hoc est in polonico" ("ni li lon toki Posuka").]]
+toki Posuka li tan [[kulupu toki Lowan]]. ma Posuka li kama lon tenpo 966. ni la, nasin ale pi toki Posuka li wan. ma Posuka li kama jo e nasin pi jan sewi. kama la, jan li ken sitelen e toki Posuka. nimi ''polski'' ("toki Posuki") li tan nimi ''Polanie.'' nimi ''Polanie'' li nimi jan. ma ona la, ni li ma Posuka lon tenpo ni. nimi Polanie li kama tan nimi ''pole'' ("ma (pali)" anu "ma pi kasi laso lili").
+linja nimi nanpa wan li lon ''lipu pi ma tomo Kenliku''. ma tomo Kenliku li lon ma Posuka. linja ni li sitelen kepeken nasin pi toki Lasina. ona li ni: ''Day, ut ia pobrusa, a ti poziwai''. taso, nasin sitelen pi tenpo ni li ante. kepeken nasin sitelen pi tenpo ni la, linja nimi li ni a: ''Daj, u ja pobrusza, a ti pocziwaj''. kon pi linja nimi ni li "a, mi o ko e pan. sina o pona, (o pali e ala)".
+== kalama ==
+[[sitelen:Polish vowel chart Wierzchowska.svg|thumb|222x222px|kalama toki pi toki Posuka.]]
+[[sitelen:Polish vowel chart (with allophones).svg|thumb|222x222px|nasin ale toki pi kalama toki.]]
+=== kalama open ===
+toki Posuki li jo e kalama open luka wan. toki Posuki en toki Lowan ante tan ni: toki Posuki li jo e kalama open tu pi nena sinpin (//, //).
+ni a li ante: toki Posuka li jo e tenpo kalama wan. ante la, [[toki Seki]] en [[toki Lowenki]] li jo e tenpo tu.
+ni li kalama open ale:
+{| class="wikitable" style="text-align: center;"
+!
+!sinpin
+!insa
+!monsi
+|-
+!sewi
+|i
+| rowspan="2" |
+|u
+|-
+!insa
+|
+|
+|-
+!anpa
+| colspan="3" |a
+|}
+jan wan la <y> li // lon toki Posuki. taso, jan ante mute la, ni li //. nasin tu sitelen li pona.
+=== kalama pini ===
+{| class="wikitable"
+! colspan="2" rowspan="2" |
+! rowspan="2" |sinpin
+! rowspan="2" |kiwen uta anu
+nena uta
+! rowspan="2" |palisa sike
+! rowspan="2" |sewi kiwen
+! colspan="2" |sewi ko
+|-
+!kiwen
+!telo
+|-
+! colspan="2" |nena sinpin
+|m
+|n
+|
+|
+|
+|
+|-
+! rowspan="2" |pini ale
+!kalama ala
+|p
+|t
+|
+|
+|k
+|k
+|-
+!kalama
+|b
+|d
+|
+|
+|
+|
+|-
+! rowspan="2" |pini pana wawa
+!kalama ala
+|
+|ts
+|t
+|t
+|
+|
+|-
+!kalama
+|
+|dz
+|d
+|d
+|
+|
+|-
+! rowspan="2" |kon tawa
+!kalama ala
+|f
+|s
+|
+|
+|x
+|x
+|-
+!kalama
+|v
+|z
+|
+|
+|
+|
+|-
+! colspan="2" |pini lili
+|
+|r
+|
+|
+|
+|
+|-
+! colspan="2" |nena lon poka
+|
+|l
+|
+|j
+|w
+|
+|}
+== sitelen ==
+{| class="wikitable"
+|+
+!
+! colspan="2" |
+|-
+!p
+| colspan="2" |p
+|-
+!t
+| colspan="2" |t
+|-
+!k
+| colspan="2" |k
+|-
+!k
+| colspan="2" |ki
+|-
+!b
+| colspan="2" |b
+|-
+!d
+| colspan="2" |d
+|-
+!g
+| colspan="2" |g
+|-
+!g<sup>j</sup>
+| colspan="2" |gi
+|-
+!ts
+| colspan="2" |c
+|-
+!dz
+| colspan="2" |dz
+|-
+!t
+| colspan="2" |cz
+|-
+!d
+| colspan="2" |d
+|-
+!t
+|ci
+|
+|-
+!d
+|dzi
+|d
+|-
+!f
+| colspan="2" |f
+|-
+!s
+| colspan="2" |s
+|-
+!
+| colspan="2" |sz
+|-
+!
+|si
+|
+|-
+!x
+|h
+|ch
+|-
+!x<sup>j</sup>
+|hi
+|chi
+|-
+!v
+|w
+|v
+|-
+!z
+| colspan="2" |z
+|-
+!
+|rz
+|
+|-
+!
+|zi
+|
+|-
+!m
+| colspan="2" |m
+|-
+!n
+| colspan="2" |n
+|-
+!
+|ni
+|
+|-
+!w
+| colspan="2" |
+|-
+!l
+|l
+|
+|-
+!r
+| colspan="2" |r
+|-
+!j
+| colspan="2" |j
+|-
+!a
+| colspan="2" |a
+|-
+!
+|e
+|
+|-
+!
+|o
+|
+|-
+!
+| colspan="2" |y
+|-
+!i
+| colspan="2" |i
+|-
+!u
+|u
+|
+|}
+==nimi pi toki Posuka tan toki pona==
+* noka    (''noga'')
+* oko     (''oko'')
+* ona meli     (''ona)''
+* ona mije     (''on)''
+* linja   (''linia'')
+* mi      (''my'')
+* palisa  (''palec'')
+* poka    (''bok'')
+* sijelo  (''ciao'')
+* tomo    (''dom'')
+* uta     (''usta'')
+* mama    (''mama'')
+==toki pi toki Posuka==
+*'''toki!''': ''Dzie dobry'' anu ''Hej'' anu ''Cze''
+*'''mi tawa''' en '''tawa pona''': ''Do widzenia'' anu ''Na razie'' anu ''Cze''
+*'''mi wile e ___''': ''Chc ___'' anu ''Potrzebuj ___''
+**'''mi wile lape''': ''Jestem picy'' anu ''Jestem zmczony'' anu ''Chce mi si spa''
+**'''mi wile moku''': ''Jestem godny''
+***'''mi wile moku e telo''': ''Jestem spragniony''
+***'''mi wile moku e ___''': ''Chciabym zje ___'' anu ''Zjadbym ___''
+*'''mute seme?''': ''Ile?''
+*'''mi pakala''': ''Do licha!'' anu ''Do diaba!''
+*'''mi sona ala''': ''Nie wiem'' anu ''Nie rozumiem''
+*'''tomo telo li lon seme?''': ''Gdzie jest azienka?''
+*'''sina sona ala sona e toki pona?''': ''Mwisz w toki ponie?'' anu ''Znasz toki pon?''
+*'''kijetesantakalu tonsi li lanpan ala lanpan e soko?''': ''Czy niebinarny szop pracz kradnie grzyby?''
+sina ken lukin e lipu sona Wikipesija lon toki Posuka lon [http://pl.wikipedia.org/ http://pl.wikipedia.org/]
+[[kulupu:toki|Posuka]]

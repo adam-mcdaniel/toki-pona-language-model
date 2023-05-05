@@ -1,0 +1,22 @@
+{{sitelen nimi}}
+{{nimi ni li pu}}
+== kon ==
+* '''nimi ni''' li toki e ijo mute la, sina ken toki e kon lawa ona lon linja ni.
+# ''nimi ijo'': ma ni: ona li pona tawa tawa jan.
+#: ''tomo mi li lon nasin Wasintan.''
+#: ''nasin ale li tawa ma tomo Loma.''
+# ''nimi ijo'': sona ni: jan li wile pali seme?
+#: ''nasin sona pona mute li lon.''
+#: ''nasin sewi mute li toki e ni: o moli ala e jan.''
+#: ''sina wile pali e tomo la, o sona e nasin pali.''
+# ''nimi ante'': ijo ni li pona tawa nasin. ijo ni li ken nasin.
+#: ''sina wile tawa ma weka la, o jo e ilo nasin.''
+#: ''tomo lipu li jo e lipu nasin mute.''
+#: ''nimi nasin pi kulupu sina li seme?''
+# ''nimi pali'': o pana e sona ni: jan li wile pali seme?
+#: ''mi wile tawa ma tomo Pesin. o nasin e mi!''
+== tan ==
+[[toki Lowasi]]: {{toki ante| / nain}}, "nasin"<ref>[https://docs.google.com/spreadsheets/d/1t-pjAgZDyKPXcCRnEdATFQOxGbQFMjZm-8EvXiQd2Po/edit lipu "nimi ale pona" pi jan Inwin]</ref>
+== kalama ==
+{{kalama nimi}}
+== tan sona ==

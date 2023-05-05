@@ -1,0 +1,21 @@
+{{sitelen nimi}}
+{{nimi ni li pu}}
+== kon ==
+* nimi "'''sitelen'''" li toki e ijo mute. taso, ona ale li jo e wan lawa ni: sitelen li awen e sona.
+# ''nimi ijo'': ijo ni: ona li lon ijo ante, li pana lukin e ijo.
+#: ''lipu ni li jo e sitelen pi jan mute.'' jan li lukin e lipu ni la, ona li ken lukin e ijo ni: ona li lukin sama jan mute.
+# ''nimi ijo'': ijo ni: ona li lon ijo ante, li jo e sona.
+#: ''sitelen ni li toki e nasin lawa pi ma ni.'' jan li lukin e ijo ni la, ona li ken kama sona e nasin lawa pi ma ni.
+# ''nimi ijo'': wan pi sitelen toki.
+#: ''sitelen Alepa li sitelen nanpa wan pi toki Elena.''
+# ''nimi ijo'': nasin ni: jan li ken pali e sitelen kepeken ona.
+#: ''[[sitelen pona]] la, nimi wan li kepeken e sitelen wan.''
+# ''nimi ante'': ijo ni li tan sitelen. ijo ni li pona tawa sitelen.
+#: ''ilo sitelen mi li pakala.''
+# ''nimi pali'': o pali e sitelen. o awen e sona kepeken sitelen.
+#: ''jan lili li sitelen e jan pona ona.''
+== tan ==
+[[toki Netelan]]: {{toki ante|schilderen}}, "o pali e sitelen, o kule e ijo (kepeken ko kule)"<ref>[https://docs.google.com/spreadsheets/d/1t-pjAgZDyKPXcCRnEdATFQOxGbQFMjZm-8EvXiQd2Po/edit lipu "nimi ale pona" pi jan Inwin]</ref>
+== kalama ==
+{{kalama nimi}}
+== tan sona ==

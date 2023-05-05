@@ -1,0 +1,35 @@
+{{poki sona toki
+|nimi toki=toki Saleja
+|nimi mama=qilxalh
+|kulupu toki=toki sin
+|sitelen=
+|kalama=[iale]
+|ma=
+|mama=[[jan Sipi Salelasu]]
+|nasin sitelen=sileten Saleja anu [[sitelen Lasina]]
+|ISO 639-1=
+|ISO 639-2=
+|ISO 639-3=
+|Linguist List=
+|Glottolog=
+|Linguasphere=
+|sitelen ma=
+|toki anpa pi sitelen ma=
+}}
+{{nimi ijo|'''toki Saleja'''|2=<span lang="ja"> ''(Shareia-go)''</span>|3=toki Nijon|2b=<span lang="mis">qilxalh</span>|3b=toki Saleja|ipab=/iale/}} li toki sin. {{nimi ijo|[[jan Sipi Salelasu]]|2=Ziphil Shaleiras}} li tan [[ma Nijon]] li pali e ona tan [[tenpo sike 2012]].
+== nimi ==
+nimi "<span lang="mis">qilxalh</span>" li nimi pi toki Saleja lon toki Saleja, li jo e kipisi tu: nimi kipisi "<span lang="mis">qil-</span>" en nimi "<span lang="mis">xalh</span>". kon pi nimi kipisi "<span lang="mis">qil-</span>" li "toki". nimi "<span lang="mis">xalh</span>" li tan {{nimi ijo|kon kalama|2=sound symbolism}}; kalama {{nimi ijo|1="<span lang="mis">xa</span>"|ipa=/a/}} li sitelen e "walo" e "suno" lon toki Saleja<ref>{{nimi ijo|"[https://ziphil.com/conlang/table/8.html kon kalama  lipu Awensija]"|2=<span lang="ja">  Avendia</span>|3=toki Nijon}}. ziphil.com.</ref><ref name="quizknock">https://web.quizknock.com/ziphil-interview</ref>.
+kalama pi tenpo pini la, kalama "<span lang="mis">xalh</span>" li /ale/. nimi <span lang="ja">"" ''(Shareia-go)''</span> lon [[toki Nijon]] li tan ona<ref>{{nimi ijo|"[https://ziphil.com/conlang/reference/4.html#szp  kalama pi tenpo ni en kalama pi tenpo pini]"|2=<span lang="ja"></span>|3=toki Nijon}}. ziphil.com.</ref>. sama la, toki Saleja li <span lang="en">"Shaleian language"</span> lon [[toki Inli]], li <span lang="ru">" "</span> lon [[toki Lusi]]<ref name="brand-identity">{{nimi ijo|"[https://ziphil.com/conlang/document/24.html nimi en sitelen pi toki Saleja  lipu Awensija]"|2=<span lang="ja">  Avendia</span>|3=toki Nijon}}. ziphil.com.</ref>.
+[[sitelen Kansi]] wan la, sitelen <span lang="ja">""</span> li sitelen e "toki Saleja"<ref name="brand-identity"/>.
+== sitelen en kalama ==
+== nasin toki ==
+== pana sona en kama sona ==
+jan Sipi li pali e lipu [https://ziphil.com Awensija] li pana e sona ni: nasin toki pi toki Saleja en pali pi toki Saleja. jan Sipi li pali e nimi Saleja lon [[ilo Siko]] lon tenpo suno luka wan; sina ken lukin e ni lon [[ilo Jutu]].
+jan Sipi li pana e lipu {{nimi ijo|"open pi kama sona: toki Saleja"|2=<span lang="ja"> </span>|3=toki Nijon}} lon [[tenpo sike nanpa 2018]]<ref>{{nimi ijo|"[https://ziphil.com/conlang/course/27.html 'open pi kama sona: toki Saleja'  lipu Awensija]"|2=<span lang="ja">   Avendia</span>|3=toki Nijon}}. ziphil.com.</ref>.
+{{nimi ijo|utala musi Olinpija pi sona toki lon ma Nijon|2=<span lang="en">Japan Linguistics Olympiad, JOL</span>}} lon tenpo sike nanpa 2021 li kepeken toki Saleja<ref>{{nimi ijo|"[https://iolingjapan.org/preparation/#pastproblem utala musi JOL lon tenpo pini]"|2=<span lang="ja"> </span>}}. {{nimi ijo|utala musi Olinpija pi sona toki lon ma Nijon|2=<span lang="en">Japan Linguistics Olympiad, JOL</span>}}.</ref>.
+{{nimi ijo|kulupu Kuwisuno|2=<span lang="ja">QuizKnock</span>}} li pana e sona pi toki Saleja kepeken [[ilo Jutu]] lon [[tenpo sike nanpa 2022]]<ref>https://www.youtube.com/watch?v=oz3Ljtymsz0&t=300s</ref>, kepeken lipu pi kulupu ni lon [[tenpo sike nanpa 2023]]<ref name="quizknock"/>.
+== tan sona ==
+<references/>
+== linja tawa selo ==
+* lipu {{nimi ijo|[https://ziphil.com Awensija]|2=Avendia}} (lon toki Nijon) - lipu pi toki Saleja tan jan Sipi
+* [https://www.youtube.com/@Ziphil jan Sipi] lon ilo Jutu - ona li pali e nimi Saleja

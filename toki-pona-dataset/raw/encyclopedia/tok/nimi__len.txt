@@ -1,0 +1,17 @@
+{{sitelen nimi}}
+{{nimi ni li pu}}
+== kon ==
+* '''nimi ni''' li toki e ijo mute la, sina ken toki e kon lawa ona lon linja ni.
+# ''nimi ijo'': ijo ni: ona li awen e sijelo jan tan lete, li weka lukin e wan sijelo ni: jan ante li wile ala lukin e ona.
+#: ''len loje li pona tawa mi.''
+# ''nimi ijo'': ijo ni: ona li awen e ijo tan ijo ike, li awen e sona tan jan ike.
+#: ''sina ken pali e ni: ilo sona li len e sona sina.''
+# ''nimi ante'': ijo ni li sama len. ijo ni li kama tan len.
+#: ''mi wile lape kepeken lipu len.''
+# ''nimi pali'': o awen e ijo, e sona.
+#: ''jan pona mi li len e mi lon tenpo ike.''
+== tan ==
+[[toki Kanse]] Akasija: {{toki ante|linge}}, "len jan"<ref>[https://docs.google.com/spreadsheets/d/1t-pjAgZDyKPXcCRnEdATFQOxGbQFMjZm-8EvXiQd2Po/edit lipu "nimi ale pona" pi jan Inwin]</ref>
+== kalama ==
+{{kalama nimi}}
+== tan sona ==

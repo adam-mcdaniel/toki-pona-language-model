@@ -1,0 +1,16 @@
+{{sitelen nimi}}
+{{nimi ni li pu}}
+== kon ==
+# ''nimi ijo'': ijo ni: tenpo pini la, lon ona la, ijo ante li lon.
+#: ''jan sona li wile sona e tan pi ijo ale.'' jan sona li wile sona e ni: kama seme li pali e ijo ale?
+# ''nimi ante'': ijo ni li tan pi ijo ante. ona li ijo nanpa wan. lon ona la, ijo ante li lon.
+#: ''nasin sewi Jejuta li nasin tan pi nasin sewi mute ante.''
+# ''nimi pi sona sin'': ijo seme la, pali ni li lon? jan seme la, pali ni li lon?
+#: ''ilo sona li pakala tan sina.'' sina pali e ijo. pali ni la, ilo sona li pakala.
+#: ''toki pona li tan jan Sonja.'' jan Sonja li pali e toki pona.
+#: ''mi tawa tan ma Epanja tawa ma Potuke.'' tenpo pini la, mi lon ma Epanja. tenpo ni anu tenpo kama la, mi lon ma Potuke.
+== tan ==
+[[toki Sonko]] pi ma tomo Onkon: {{toki ante| tsung}}, "tan ijo/jan/ma ante"<ref>[https://docs.google.com/spreadsheets/d/1t-pjAgZDyKPXcCRnEdATFQOxGbQFMjZm-8EvXiQd2Po/edit lipu "nimi ale pona" pi jan Inwin]</ref>
+== kalama ==
+{{kalama nimi}}
+== tan sona ==

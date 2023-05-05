@@ -1,0 +1,12 @@
+{{sitelen nimi}}
+{{nimi ni li pu}}
+== kon ==
+* '''ike''' li pona ala. "ike" li weka e pona tan ijo. ken la, "ike" li pakala e ijo.
+# ''nimi ijo'': wile ike. pali ike. nasin ike.
+# ''nimi ante'': ijo ni li ike. insa la, ijo ni li jo e ijo mute. jan li wile ala e ijo ni.
+# ''nimi pali'': tenpo pini la, ijo li pona. jan li ike e ijo. ijo li pona ala.
+== tan ==
+[[toki Sumi]]: {{toki ante|ilke}}, "ike, ijo pi wile ike"<ref>[https://docs.google.com/spreadsheets/d/1t-pjAgZDyKPXcCRnEdATFQOxGbQFMjZm-8EvXiQd2Po/edit lipu "nimi ale pona" pi jan Inwin]</ref>
+== kalama ==
+{{kalama nimi}}
+== nimi nasin sin ==

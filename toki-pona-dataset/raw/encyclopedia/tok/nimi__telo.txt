@@ -1,0 +1,14 @@
+{{sitelen nimi}}
+{{nimi ni li pu}}
+== kon ==
+# ''nimi ijo'': ijo ni: ona li lon poki la, ona li tawa poka ale pi insa poki.
+#: ''telo li kama tan sewi.''
+# ''nimi ante'': ijo ni li telo. ijo ni li sama telo. ijo ni li lon telo.
+#: ''moku telo li pona tawa jan lili.''
+# ''nimi pali'': o pana e telo tawa ijo. ni li ken weka e jaki tan ijo.
+#: ''mi telo e kili.''
+== tan ==
+[[toki Kanse]] Akasija: {{toki ante|de l'eau}}, "telo"<ref>[https://docs.google.com/spreadsheets/d/1t-pjAgZDyKPXcCRnEdATFQOxGbQFMjZm-8EvXiQd2Po/edit lipu "nimi ale pona" pi jan Inwin]</ref>
+== kalama ==
+{{kalama nimi}}
+== tan sona ==

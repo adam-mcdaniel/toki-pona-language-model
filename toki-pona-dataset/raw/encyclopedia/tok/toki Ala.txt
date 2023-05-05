@@ -1,0 +1,22 @@
+{{poki sona toki
+|nimi toki=toki Ala
+|nimi mama=
+|kulupu toki=toki sin
+|sitelen=
+|kalama=ala
+|ma=
+|mama=[[jan Okaju]]
+|nasin sitelen=ala
+|ISO 639-1=
+|ISO 639-2=
+|ISO 639-3=
+|Linguist List=
+|Glottolog=
+|Linguasphere=
+|sitelen ma=
+|toki anpa pi sitelen ma=
+}}
+'''toki Ala''' anu {{nimi ijo|'''toki Alasu'''|2=<span lang="ja"></span>, Arazu-go|3=toki Nijon}} li [[toki sin]] musi. ona li jo ala e [[nimi]] e [[nasin toki]]<!-- grammar -->. lon [[toki Nijon]] la, "<span lang="ja"></span>" (<span lang="ja"></span>, ''arazu'') li sitelen e "lon ala". {{nimi ijo|[[jan Okaju]]||toki Nijon}} li pali e ona lon [[tenpo sike 2015]].
+toki sin mute li jo e nimi e nasin toki. tan ni la, jan li wile pali pona e toki sin la, ni li pini ala. taso, wile pi toki Ala li ni: ona li jo e ala. tan ni la, ni li ken pini: pali e ale pi toki Ala. toki Ala li ale tan ala.
+== linja tawa selo ==
+* [https://cogas.github.io/pages/runbau/araz_go/ lela.ik.tnxe - ] (lon toki Nijon)

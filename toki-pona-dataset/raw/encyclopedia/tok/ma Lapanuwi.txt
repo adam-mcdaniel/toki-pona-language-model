@@ -1,0 +1,29 @@
+{{poki sona ma|
+| nimi ma                 = ma Lapanuwi
+| nimi mama               = Rapa Nui <br> Isla de Pascua
+| ma                      =
+| sitelen                 =
+| toki pi anpa sitelen    =
+| len ma                  = [[sitelen:Flag_of_Rapa_Nui,_Chile.svg|border|130px]]
+| sitelen lawa            = [[sitelen:Emblem_of_Easter_Island.svg|101px]]
+| kalama musi ma          =
+| ma tomo lawa            = [[ma tomo Ankalowa]]
+| ma suli                 = [[ma Sile]]
+| toki lawa               = [[toki Lapanuwi]] <br> [[toki Epanja]]
+| toki ante               =
+| nasin sewi              =
+| nasin lawa              =
+| mani                    = [[mani Peso pi ma Sile]] (CLP)
+| tenpo                   =
+| ISO 3166                =
+| sitelen ma              = [[sitelen:Easter_Island_map-en.svg|220px]]
+| toki anpa pi sitelen ma =
+| lipu ilo                = http://www.rapanui.net/
+| ma lili                 =
+}}
+[[sitelen:Ahu Akivi - panoramio - LANOEL.jpg|thumb|lawa kiwen ''moai'']]
+'''ma Lapanuwi''' li [[ma sike telo]] lon [[telo suli Pasipi]]. ona li lawa tan [[ma Sile]]. ma ante li lon weka tawa ona.
+tenpo pini la [[kulupu Polinesijan]] li kama lon ma Lapanuwi. jan mute li sona e ma ni tan ni: ona li jo e lawa kiwen suli mute. ona li jo e nimi "''moai''". tenpo sike nanpa 1722 la jan tan ma Elopa li kama lon ma Lapanuwi li pana e jaki e esun tawa ona. jan mute li pilin e ni: pali pi kiwen ni li pakala e ma li weka e moku. tenpo pi jan tan [[ma Elopa]] li kama la, jan nanpa lili li lon e ma. tenpo sike nanpa 1878 la jan mani Alesante Awijepajeja Samon li pali e ma pan esun lon ma Lapanuwi li kama jan lawa pi Lapanuwi. tenpo sike nanpa 1888 la ma Sile li anpa e ma.
+[[kulupu:ma Osejanija]]
+[[kulupu:ma Sile]]
+[[kulupu:ma lon telo]]

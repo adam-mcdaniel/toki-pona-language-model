@@ -1,3 +1,11 @@
+'''
+Author: Adam McDaniel (amcdan23)
+Description: This script is used to prompt our iterations of Toki Pona language models.
+             It is used to test the models and see how they perform on a given prompt.
+Dependencies: transformers, torch
+Usage: python3 prompt.py
+'''
+
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
 
@@ -11,8 +19,6 @@ try:
         ("adamthekiwi/toki-pona-better", "DistilGPT2 trained on toki-pona data with more prompt data, more epochs, and warmup steps"),
         ("adamthekiwi/toki-pona-gpt2-alpaca-better", "Pretrained GPT2 on GPT4 alpaca dataset. Trained with more variation in prompts. Uses same data as non-alpaca models but with alpaca prompt formatting"),
         ("adamthekiwi/toki-pona-gpt2-alpaca-best", "Pretrained GPT2 on GPT4 alpaca dataset. Trained with encyclopedia data. Uses same data as non-alpaca models but with alpaca prompt formatting"),
-        # ("adamthekiwi/toki-pona-gpt2-alpaca", "Pretrained GPT2 on GPT4 alpaca dataset. Uses same data as non-alpaca models but with alpaca prompt formatting"),
-        # ("adamthekiwi/toki-pona-gpt2", "GPT2 trained on toki-pona data with custom prompt formatting"),
     ]
 
     chosen_model = model_options[0]

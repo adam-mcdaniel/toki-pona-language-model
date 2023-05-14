@@ -1,3 +1,12 @@
+'''
+Author: Adam McDaniel (amcdan23)
+Description: This script is used to parse the Wikipesija XML dump into a list of pages.
+             This script also removes extraneous content from the pages, such as
+             categories, templates, and other markup.
+Dependencies: xml, re
+Usage: python3 parse-wikipesija.py
+'''
+
 import xml.etree.ElementTree as ET
 import re
 
